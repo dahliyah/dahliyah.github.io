@@ -9,7 +9,7 @@ repo_url: https://dahliyah.github.io
 theme:
     name: material
     palette:
-        scheme: default
+        scheme: slate
         primary: light green
     custom_dir: overrides
     locale: en
