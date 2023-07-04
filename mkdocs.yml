@@ -2,7 +2,7 @@ site_name: Dahlia Oopzs Torah Notes
 site_url: https://dahliyah.github.io
 site_description: Project documentation with Markdown
 site_author: Dahlia (Oopzs)
-repo_url: https://dahliyah.github.io/docs/
+repo_url: https://dahliyah.github.io
 theme:
     name: dracula
     locale: en
