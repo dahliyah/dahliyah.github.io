@@ -49,6 +49,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - include-markdown
     - search
     - redirects:
         redirect_maps:
