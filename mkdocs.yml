@@ -92,8 +92,6 @@ hooks:
     - docs/hooks.py
 
 plugins:
-    - privacy
-      enabled: !ENV [CI, false]
     - include-markdown
     - search
     - redirects:
