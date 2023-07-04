@@ -4,6 +4,12 @@ div.col-md-9 h1:first-of-type {
     font-weight: 300;
 }
 
+@font-face {
+    font-family: "Avant Garde LT Bold";
+    src: "AvantGardeLT-Bold.otf";
+  }
+
+
 div.col-md-9>p:first-of-type {
     text-align: center;
 }
