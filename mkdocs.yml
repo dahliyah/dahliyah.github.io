@@ -8,6 +8,11 @@ repo_url: https://dahliyah.github.io
 
 theme:
     name: material
+  palette:
+    scheme: default
+    primary: light green
+
+
     custom_dir: overrides
     locale: en
     highlightjs: true
