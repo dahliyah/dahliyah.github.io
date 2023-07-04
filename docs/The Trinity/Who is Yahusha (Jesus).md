@@ -1,5 +1,9 @@
 ---
 share: true
+tags: 
+   - yahusha
+   - elohiym
+   - messiah
 ---
 
 # Who is Yahusha (Jesus)?
