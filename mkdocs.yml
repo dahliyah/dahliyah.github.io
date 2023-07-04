@@ -8,10 +8,7 @@ repo_url: https://dahliyah.github.io
 
 
 theme:
-    name: material  
-    palette:       
-        scheme: slate
-        primary: light green
+    name: material       
     custom_dir: overrides
     locale: en
     highlightjs: true
@@ -21,12 +18,13 @@ theme:
     features:
         - navigation.footer
     palette: 
+        scheme: slate
+        primary: light green
     # Palette toggle for light mode
         - scheme: default
           toggle:
           icon: material/brightness-7 
           name: Switch to dark mode
-
     # Palette toggle for dark mode
         - scheme: slate
           toggle:
