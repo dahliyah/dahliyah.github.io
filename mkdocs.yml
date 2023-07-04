@@ -6,9 +6,22 @@ site_description: Project documentation with Markdown
 site_author: Dahlia (Oopzs)
 repo_url: https://dahliyah.github.io
 
+
 theme:
-    name: material
-    palette:
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+        toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        name: material        
         scheme: slate
         primary: light green
     custom_dir: overrides
