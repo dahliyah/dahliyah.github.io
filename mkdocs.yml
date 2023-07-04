@@ -20,7 +20,7 @@ theme:
     palette: 
         scheme: slate
         primary: light green
-        
+
  
 extra:
   social:
@@ -92,6 +92,8 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - privacy
+      enabled: !ENV [CI, false]
     - include-markdown
     - search
     - redirects:
