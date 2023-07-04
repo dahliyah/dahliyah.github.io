@@ -20,8 +20,7 @@ theme:
     palette: 
         scheme: slate
         primary: light green
-    font:
-        code: Avant Garde LT Bold
+    font: false
  
 extra:
   social:
