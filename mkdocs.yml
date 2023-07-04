@@ -51,6 +51,7 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+    - admonition
     - pymdownx.betterem
     - pymdownx.caret
     - pymdownx.critic
