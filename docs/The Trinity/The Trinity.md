@@ -4,6 +4,9 @@ tags:
    - the trinity
    - trinity
 share: true
+hide:
+  - navigation
+  - toc
 ---
 
 
