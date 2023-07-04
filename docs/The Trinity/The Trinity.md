@@ -5,6 +5,12 @@ tags:
    - trinity
 share: true
 ---
+
+
+
+
+
+
 # The Trinity
 
 > **Definition:** defines [one God](https://en.wikipedia.org/wiki/Monotheism "Monotheism") existing in three [coequal](https://en.wiktionary.org/wiki/coequal "wikt:coequal"), [coeternal](https://en.wiktionary.org/wiki/coeternal "wikt:coeternal"), [consubstantial](https://en.wikipedia.org/wiki/Consubstantiality "Consubstantiality") [divine persons](https://en.wikipedia.org/wiki/Prosopon "Prosopon"):<sup id="cite_ref-FOOTNOTEDaley2009323–350_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTEDaley2009323–350-2">[2]</a></sup><sup id="cite_ref-FOOTNOTERamelli2012_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTERamelli2012-3">[3]</a></sup> [God the Father](https://en.wikipedia.org/wiki/God_the_Father_(Christianity) "God the Father (Christianity)"), [God the Son](https://en.wikipedia.org/wiki/God_the_Son "God the Son") ([Jesus Christ](https://en.wikipedia.org/wiki/Jesus_in_Christianity "Jesus in Christianity")) and [God the Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit_in_Christianity "Holy Spirit in Christianity"), three distinct persons (hypostases) sharing one essence/substance/nature [[../../Homoousion|Homoousion]]
@@ -92,10 +98,5 @@ Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[Isaiah 53]]
 
 
 
-
-
-::: hidden
 ### Research to be Done
 - [ ] Do research on the phrase, "Son of Man" 📅 🛫   2023-07-04
-
-:::
