@@ -8,8 +8,8 @@ repo_url: https://dahliyah.github.io
 
 theme:
     name: material
+    custom_dir: overrides
     locale: en
-    analytics: {gtag: 'G-274394082'}
     highlightjs: true
     hljs_languages:
         - yaml
@@ -20,8 +20,9 @@ theme:
         
 extra:
   social:
-    - icon: fontawesome/brands/mastodon 
-      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCVh_qkKF2ecK8cBDADmuojA
+  generator: false
 
 
 nav:
@@ -80,7 +81,7 @@ markdown_extensions:
     - pymdownx.b64
 
 
-copyright: Copyright &copy; 2022 - 2023 Dahlia Love
+copyright: Copyright &copy; 2022 - 2023 Dahlia Love / Setapart.top
 
 
 hooks:
