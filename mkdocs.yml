@@ -15,9 +15,6 @@ theme:
   features:
     - navigation.footer
 
-
-
-
 nav:
     - Home: index.md
     - Law:
