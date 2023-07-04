@@ -7,7 +7,7 @@ site_author: Dahlia (Oopzs)
 repo_url: https://dahliyah.github.io
 
 theme:
-    name: dracula
+    name: material
     locale: en
     analytics: {gtag: 'G-274394082'}
     highlightjs: true
