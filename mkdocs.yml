@@ -6,7 +6,7 @@ repo_url: https://dahliyah.github.io/docs/
 edit_uri: blob/master/docs/
 
 theme:
-    name: mkdocs
+    name: dracula
     locale: en
     analytics: {gtag: 'G-274394082'}
     highlightjs: true
