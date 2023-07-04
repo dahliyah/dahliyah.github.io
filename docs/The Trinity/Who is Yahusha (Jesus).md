@@ -38,7 +38,7 @@ share: true
 >  <sup> **3** </sup>Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
  %% #bible #psalms #psalms110 %%
 
-The Septuagint presents variations from the translation in the *King James Version* (KJV), which was translated from a **different source** ([[../Timelines/Events|Masoretic Text]]).
+The Septuagint presents variations from the translation in the *King James Version* (KJV), which was translated from a **different source** ([[../../Events|Masoretic Text]]).
 - However, it should be noted that the Septuagint is still incomplete as a section in the verse is missing.
 - The screenshot below is from the Blue Letter Bible website. Two Greek words seem to have not been translated and are marked as "Not Available."
 
