@@ -16,8 +16,6 @@ theme:
 
 nav:
     - Home: index.md
-    - Getting Started: getting-started.md
-    - User Guide: user-guide/
     - Law:
         - Eternal Torah: Law/Eternal Torah.md
     - The Trinity:
