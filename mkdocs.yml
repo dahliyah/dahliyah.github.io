@@ -23,7 +23,6 @@ theme:
         - navigation.tabs
         - navigation.sections
         - navigation.path
-
     palette: 
         scheme: slate
         primary: light green
