@@ -1,3 +1,16 @@
-# MkDocs
+---
+share: true
+---
 
-fghcfgjfhkmghghcgk
+# Home
+
+Shalom, beloved brothers, and sisters! I am excited to share with you my deep dive into the scriptures over the last few years. Through my dedicated efforts, I have taken detailed notes and created insightful diagrams. I am eager to share my findings with you all by posting them here!
+
+
+> [!tip] quote
+> 
+>“To acquire knowledge, one must *study*; but to acquire **wisdom**, one must <mark style="background: #FFB86CA6;">observe</mark>." ― Marilyn vos Savant
+
+| Note | Topic |
+| ---- | ----- |
+>>>>>>> 8b0ccd6a725b6911227a7c13a14a8bc16b88cad2
