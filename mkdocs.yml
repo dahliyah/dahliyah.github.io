@@ -32,26 +32,9 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
-    - footnotes
-    - toc:
-        permalink: 
-    - attr_list
-    - def_list
-    - tables
-    - pymdownx.highlight:
-        use_pygments: false
-    - pymdownx.snippets
-    - pymdownx.superfences
-    - callouts
-    - mdx_gh_links:
-        user: mkdocs
-        repo: mkdocs
-    - mkdocs-click
-     - pymdownx.arithmatex
-    - pymdownx.b64
-     - pymdownx.betterem
-     - pymdownx.caret
-     - pymdownx.critic
+    - pymdownx.betterem
+    - pymdownx.caret
+    - pymdownx.critic
     - pymdownx.details
     - pymdownx.emoji
     - pymdownx.escapeall
@@ -71,6 +54,24 @@ markdown_extensions:
     - pymdownx.tabbed
     - pymdownx.tasklist
     - pymdownx.tilde
+    - footnotes
+    - toc:
+        permalink: 
+    - attr_list
+    - def_list
+    - tables
+    - pymdownx.highlight:
+        use_pygments: false
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - callouts
+    - mdx_gh_links:
+        user: mkdocs
+        repo: mkdocs
+    - mkdocs-click
+     - pymdownx.arithmatex
+    - pymdownx.b64
+
 
 copyright: dd
 
