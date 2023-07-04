@@ -24,6 +24,7 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+    - footnotes
     - toc:
         permalink: 
     - attr_list
