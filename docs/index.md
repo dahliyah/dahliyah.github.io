@@ -13,4 +13,3 @@ Shalom, beloved brothers, and sisters! I am excited to share with you my deep di
 
 | Note | Topic |
 | ---- | ----- |
-
