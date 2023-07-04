@@ -13,4 +13,4 @@ Shalom, beloved brothers, and sisters! I am excited to share with you my deep di
 
 | Note | Topic |
 | ---- | ----- |
->>>>>>> 8b0ccd6a725b6911227a7c13a14a8bc16b88cad2
+
