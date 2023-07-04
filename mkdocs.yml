@@ -23,6 +23,11 @@ nav:
         - Release Notes: about/release-notes.md
         - Contributing: about/contributing.md
         - License: about/license.md
+    - Law:
+        - Eternal Torah: Law/Eternal Torah.md
+    - The Trinity:
+        - The Trinity: The Trinity/The Trinity.md
+        - Who is Yahusha (Jesus): The Trinity/Who is Yahusha (Jesus).md
 
 extra_css:
     - css/extra.css
