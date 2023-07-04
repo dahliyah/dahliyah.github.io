@@ -17,6 +17,13 @@ theme:
         - django
     features:
         - navigation.footer
+        - navigation.instant
+        - navigation.instant
+        - navigation.instant.prefetch
+        - navigation.tabs
+        - navigation.sections
+        - navigation.path
+
     palette: 
         scheme: slate
         primary: light green
