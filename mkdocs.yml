@@ -22,6 +22,9 @@ nav:
     - Home: index.md
     - Law:
         - Eternal Torah: Law/Eternal Torah.md
+    - Canon:
+        - Bible Canon: Canon/Bible Canon.md
+        - Septuagint: Canon/Septuagint Text Family.md
     - The Trinity:
         - The Trinity: The Trinity/The Trinity.md
         - Who is Yahusha (Jesus): The Trinity/Who is Yahusha (Jesus).md
