@@ -23,7 +23,7 @@ theme:
         - navigation.tabs
         - navigation.sections
         - navigation.path
-        - navigation.indexes
+        - toc.integrate
     palette: 
         scheme: slate
         primary: light green
