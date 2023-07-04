@@ -14,8 +14,8 @@ theme:
     hljs_languages:
         - yaml
         - django
-  features:
-    - navigation.footer
+    features:
+        - navigation.footer
 
 nav:
     - Home: index.md
