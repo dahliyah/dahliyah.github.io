@@ -8,20 +8,8 @@ repo_url: https://dahliyah.github.io
 
 
 theme:
-  palette: 
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-        toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-        name: material        
+    name: material  
+    palette:       
         scheme: slate
         primary: light green
     custom_dir: overrides
@@ -32,7 +20,19 @@ theme:
         - django
     features:
         - navigation.footer
+    palette: 
 
+    # Palette toggle for light mode
+        - scheme: default
+          toggle:
+          icon: material/brightness-7 
+          name: Switch to dark mode
+
+    # Palette toggle for dark mode
+        - scheme: slate
+          toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
         
 extra:
   social:
