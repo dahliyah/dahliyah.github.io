@@ -99,6 +99,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - tags
     - include-markdown
     - search
     - redirects:
