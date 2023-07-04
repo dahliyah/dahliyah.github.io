@@ -1,0 +1,6 @@
+---
+share: true
+---
+
+# Living Soul
+
