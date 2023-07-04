@@ -17,6 +17,13 @@ theme:
     features:
         - navigation.footer
 
+        
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@squidfunk
+
+
 nav:
     - Home: index.md
     - Law:
@@ -73,7 +80,8 @@ markdown_extensions:
     - pymdownx.b64
 
 
-copyright: dd
+copyright: Copyright &copy; 2022 - 2023 Dahlia Love
+
 
 hooks:
     - docs/hooks.py
