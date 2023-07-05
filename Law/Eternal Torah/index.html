@@ -59,7 +59,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -762,6 +773,25 @@
                   
   
 
+  <nav class="md-tags" >
+    
+      
+      
+        <span class="md-tag">bible</span>
+      
+    
+      
+      
+        <span class="md-tag">acts</span>
+      
+    
+      
+      
+        <span class="md-tag">acts21</span>
+      
+    
+  </nav>
+
 
 
 
@@ -773,7 +803,7 @@
 </ul>
 <h3 id="paul-kept-the-law">Paul Kept the Law</h3>
 <blockquote>
-<p>[!Bible] <a href="https://bible-api.com/acts+21:24?translation=kjv">Acts 21:24 - KJV</a> [[acts]][[acts21]]
+<p>[!Bible] <a href="https://bible-api.com/acts+21:24?translation=kjv">Acts 21:24 - KJV</a> <a href="acts.md#">acts</a> <a href="acts21.md#">acts21</a>
  <sup> <strong>24</strong> </sup>Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and <strong>keepest the law.</strong>
  %% #bible #acts #acts21 %%</p>
 </blockquote>
@@ -872,5 +902,5 @@
       <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>

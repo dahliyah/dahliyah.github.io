@@ -59,7 +59,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -807,6 +818,20 @@
                   
   
 
+  <nav class="md-tags" >
+    
+      
+      
+        <span class="md-tag">timeline</span>
+      
+    
+      
+      
+        <span class="md-tag">years</span>
+      
+    
+  </nav>
+
 
 
 
@@ -820,7 +845,7 @@
 <li>"Eternal" Execration? </li>
 </ul>
 <p>Enoch Chapter 6 Verse 7 - Research Names</p>
-<p>![[../../Wikis/IMAGES/Pasted image 20230619202557.png|Pasted image 20230619202557.png]]</p>
+<p><a class="glightbox" href="../../Wikis/IMAGES/Pasted%20image%2020230619202557.png#" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Pasted image 20230619202557.png" src="../../Wikis/IMAGES/Pasted%20image%2020230619202557.png#" /></a></p>
 <h4 id="chapter-17-sheol">Chapter 17 - Sheol</h4>
 <h4 id="name-of-the-angels-watchers">Name of the Angels (Watchers)</h4>
 <ul>
@@ -855,7 +880,7 @@ verse 8 that which is above the heavens is the masculine and the water which is 
 <p><code>timestamp 
  30:17</code></p>
 <ul class="task-list">
-<li class="task-list-item"><input type="checkbox" disabled/> what is the Head of Days?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> what is the Head of Days?</li>
 </ul>
 <p><code>timestamp 
  36:43</code></p>
@@ -960,5 +985,5 @@ BookMark - stopped here</p>
       <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
