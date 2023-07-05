@@ -115,7 +115,6 @@ hooks:
 
 plugins:
     - tags
-    - def_list
     - pymdownx.tasklist:
         custom_checkbox: true
     - glightbox
