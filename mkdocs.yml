@@ -58,6 +58,7 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+    - tables
     - admonition
     - pymdownx.betterem
     - pymdownx.caret
@@ -98,6 +99,11 @@ markdown_extensions:
     - mkdocs-click
     - pymdownx.arithmatex
     - pymdownx.b64
+    - pymdownx.superfences:
+       custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 
 copyright: Copyright &copy; 2022 - 2023 Dahlia Love / Setapart.top 
