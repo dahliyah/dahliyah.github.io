@@ -86,6 +86,7 @@ markdown_extensions:
     - toc:
         permalink: 
     - attr_list
+    - md_in_html
     - def_list
     - tables
     - pymdownx.highlight:
@@ -114,6 +115,10 @@ hooks:
 
 plugins:
     - tags
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - glightbox
     - include-markdown
     - search
     - redirects:
