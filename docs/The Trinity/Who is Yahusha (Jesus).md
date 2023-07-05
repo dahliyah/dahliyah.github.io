@@ -15,6 +15,7 @@ tags:
 > .
 >  Okay that's the end of the note.
 
+
 ## Was Yahusha created?
 
 ### Scripture tells us that...
@@ -91,9 +92,29 @@ Google states that the term "engendered" is no longer commonly used and refers t
 |----|----|----|
 |H1060 - bᵊḵôr - first-born; hence, chief:—eldest (son), firstborn(-ling).|H1069 - bāḵar - new fruit, to constitute as firstborn, to give the right of the firstborn, to bear early||
 |H1067 - bᵊḵîrâ - the eldest daughter:—firstborn.|H1062 - bᵊḵôrâ - birthright, primogeniture, right of the first-born, firstlings||
-||G4416 - prōtotokos - from G4413 and the alternate of G5088; first-born (usually as a noun, literally or figuratively):—firstbegotten(-born).|Matthew 1:25, Luke 2:7, Romans 8:29,  Colossians 1:15,  Colossians 1:18,  Hebrews 1:6,  Hebrews 11:28,  Hebrews 12:23, Revelation 1:5|
+||G4416 - prōtotokos - from G4413 and the alternate of G5088; first-born (usually as a noun, literally or figuratively):—first-begotten(-born).|Matthew 1:25, Luke 2:7, Romans 8:29,  Colossians 1:15,  Colossians 1:18,  Hebrews 1:6,  Hebrews 11:28,  Hebrews 12:23, Revelation 1:5|
 ||G5207 - yhios - the children of Israel, sons of Abraham,  Son of man, Son of God, used to describe those who are born again (Lk. 20:36) and of angels and of Yahusha Messiah, of those whom God esteems as sons, whom he loves, protects and benefits above others, those who revere God as their father, the pious worshippers of God, those who in character and life resemble God, those who are governed by the Spirit of God, repose the same calm and joyful trust in God which children do in their parents (Rom. 8:14, Gal. 3:26), and hereafter in the blessedness and glory of the life eternal will openly wear this dignity of the sons of God. A term used preeminently of Jesus Christ, as enjoying the supreme love of God, united to him in affectionate intimacy, privy to his saving councils, obedient to the Father's will in all his acts||
 
 
 ## The Word
 
+
+## The First Fruits of the first resurrection
+
+> [!Bible] [1 Corinthians 15:22-23 - KJV](https://bible-api.com/1corin+15:22-23?translation=kjv) [[1corinthians]] [[1corinthians15]]
+>  <sup> **22** </sup>For as in Adam all die, even so in Christ shall all be made alive. <sup> **23** </sup>But every man in his own order: *Christ the firstfruits*; afterward they that are Christ’s at his coming.
+ %% #bible #1corinthians #1corinthians15 %%
+
+
+## Selfless Sacrifice
+
+> [!Bible] [Hebrews 5:6-10 - KJV](https://bible-api.com/HEBREWS+5:6-10?translation=kjv) [[hebrews]] [[hebrews5]]
+>  <sup> **6** </sup>As he saith also in another place, Thou art a priest for ever after the order of Melchisedec. <sup> **7** </sup>Who in the days of his flesh, *when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death*, and was heard in that he feared; <sup> **8** </sup>Though he were a Son, **yet learned he obedience by the things which he suffered**; <sup> **9** </sup>And **being made perfect, he became the author of eternal salvation** unto all them that obey him; <sup> **10** </sup>Called of God an high priest after the order of Melchisedec.
+ %% #bible #hebrews #hebrews5 %%
+
+
+Two types of death exist - earthly death and spiritual death. - [[Two Deaths]]
+
+> [!Bible] [Psalms 49:14-15 - KJV](https://bible-api.com/psa+49:14-15?translation=kjv) [[psalms]] [[psalms49]]
+>  <sup> **14** </sup>Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling. <sup> **15** </sup>But God will redeem my soul from the power of the grave: for he shall receive me. Selah.
+ %% #bible #psalms #psalms49 %%
