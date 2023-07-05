@@ -13,3 +13,6 @@ Shalom, beloved brothers, and sisters! I am excited to share with you my deep di
 
 | Note | Topic |
 | ---- | ----- |
+
+
+[Back to SetApart.top](https://setapart.top){ .md-button .md-button--primary }
