@@ -2,7 +2,11 @@
 share: true
 book: Enoch
 chapters: 1
+tags:
+  - timeline
+  - years
 ---
+
 
 # Book of Enoch
 
@@ -23,7 +27,7 @@ Enoch Chapter 6 Verse 7 - Research Names
 
 
 
-![[../../Wikis/IMAGES/Pasted image 20230619202557.png|Pasted image 20230619202557.png]]
+![Pasted image 20230619202557.png](../../Wikis/IMAGES/Pasted%20image%2020230619202557.png#)
 
 
 #### Chapter 17 - Sheol
