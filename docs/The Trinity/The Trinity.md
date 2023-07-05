@@ -5,7 +5,6 @@ tags:
    - trinity
 share: true
 hide:
-  - navigation
   - toc
 comments: true
 ---
