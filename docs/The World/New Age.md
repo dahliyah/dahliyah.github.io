@@ -14,6 +14,20 @@ share: true
 From a historical perspective, the New Age phenomenon is most associated with the [counterculture of the 1960s](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s "Counterculture of the 1960s").
 
 
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts<br/>prevail...
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+
+
+
 
 
 
