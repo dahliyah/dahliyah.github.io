@@ -58,6 +58,8 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+    - pymdownx.tasklist:
+        custom_checkbox: true
     - tables
     - admonition
     - pymdownx.betterem
@@ -115,8 +117,6 @@ hooks:
 
 plugins:
     - tags
-    - pymdownx.tasklist:
-        custom_checkbox: true
     - glightbox
     - include-markdown
     - search
