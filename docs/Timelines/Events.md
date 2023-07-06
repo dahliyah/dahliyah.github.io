@@ -11,7 +11,7 @@ content: In the 3<sup>rd</sup> century B.C., Greek ruler of Egypt, Ptolemy II, w
 
 At Ptolemy's request, the Judean governor sent 72 elders to Alexandra ---six from each of the twelve tribes.
 
-These elders translated the Law of Moses from Hebrew manuscripts into Greek.
+A group of individuals took on the task of translating the Law of Moses from Hebrew manuscripts to Greek.
 
 date: 130 B.C  <br> 
 title: <mark style='background:#20bf6b'>Hebrew Scripts Translated</mark>
@@ -33,7 +33,7 @@ date: *guess:* 100 A.D. <br> 2<sup>nd</sup> Century A.D
 title: <mark style='background:#fa8231'>Jewish Rabbis reject and discard LXX</mark>
 content: By the 2<sup>nd</sup> century A.D., Jewish rabbis began rejecting the LXX in favor of *other* Hebrew texts.
 
-During this timeframe, Christian writers accused the Jews of **maliciously** manipulating the Scriptures.
+In this period, Christian writers made accusations against Jews for deliberately manipulating the Scriptures.
 
 
 
@@ -41,9 +41,9 @@ date: 126 A.D
 title: <mark style="background: #FF5582A6;">(Jewish) 1st of the Greek Translations</mark>
 content: ### [Aquila of Sinope](Aquila%20of%20Sinope.md#)
 
-Aquila translates bad Greek translation. Passages about the Messiah were reworded in this translation.
+The Greek translation by Aquila of Sinope was corrupted. Specifically, the passages mentioning the Messiah were altered in the rewording.
 
-Aquila's version is said to have been used in place of the Septuagint in Greek-speaking synagogues. The Christians generally disliked it, alleging that it **rendered the Messianic passages incorrectly**, but Jerome and Origen speak in its praise. Origen incorporated it in his Hexapla.
+It is said that Aquila's version was utilized instead of the Septuagint in Greek-speaking synagogues. However, Christians were not fond of it as they claimed that it inaccurately portrayed the Messianic passages. Despite this, Jerome and Origen spoke highly of it and Origen even included it in his Hexapla.
 
 ---
 
@@ -53,9 +53,9 @@ Aquila (Hebrew: עֲקִילַס ʿăqīlas, fl. 130 AD) of Sinope (modern-day S
 
 date: <mark style="background: #FF5582A6;">???</mark>
 title: <mark style="background: #D2B3FFA6;">Symmachus the Ebionite Translation</mark>
-content: Symmachus, translated the Old Testament into Greek. Symmachus' translation of scripture was said, by scholars, to be good and pure Greek.
+content: Symmachus was a renowned translator who converted the Old Testament into Greek. Scholars praised his translation for its exceptional use of pure and refined Greek language. 
 
-His translation is lost.
+Unfortunately, his work has been lost over time.
 
 date: 160 A.D.  <br> <mark style="background: #D2B3FFA6;">2<sup>nd</sup> Century AD</mark>
 title: Dialogue with Trypho (Justin Martyr)
@@ -92,11 +92,10 @@ date: 394 A.D.
 title: Augustine, to Jerome
 content: >"I beseech you not to devote your labor to the work of translating into Latin the sacred canonical books, unless you... let it be seen plainly what differences there are between this version of yours and that of the Septuagint, whose authority is worthy of highest esteem."
 
-Jerome persisted, translating from the Jewish accepted Hebrew text of his day.
+Jerome persevered in translating the Jewish accepted Hebrew text of his time. 
+With the assistance of the Pope's political influence, his Latin Vulgate became the primary version of the Bible used in the Western world. 
 
-Aided by the pope's political clout, Jerome's Latin Vulgate became the predominant Bible version used throughout the western wolrd.
-
-Although the Eastern churches continued using the LXX, as their influence declined, the LXX mostly faded from memory
+Despite the fact that the Eastern churches continued to use the LXX, its influence decreased, and it gradually faded from memory.
 
 date: 600 A.D - 1000 A.D. <br> 7<sup>th</sup> - 11<sup>th</sup> Centuries
 title: <mark style='background:#eb3b5a'>Masoretic Text</mark>
@@ -104,14 +103,14 @@ content: Between the 7th and 11th centuries A.D., scribes known as the Masoretes
 
 The Masoretes preserved and enhanced copies of the **Hebrew Old Testament**. 
 
-Their version became known as the Masoretic Text (MT).
+The version they produced is commonly referred to as the Masoretic Text (MT).
 
-The oldest manuscripts of the MT date from the 9<sup>th</sup> century A.D.
+The earliest known manuscripts of the MT were created in the 9<sup>th</sup> century A.D.
 
 <mark style='background:#f7b731'>1000  YEARS AFTER THE LXX!!</mark>
 
-date: 1611 
-title: KJV 1611
-content: The MT was the Old Testament source for the 1611 King James Version (KJV) and nearly every English translated since. 
+date: <mark style='background:#fa8231'>1611 </mark>
+title: <mark style='background:#0fb9b1'>King James Version 1611</mark>
+content: The MT served as the primary source for the Old Testament in the 1611 King James Version (KJV) and has been utilized in almost every English translation since then.
 
 ```
