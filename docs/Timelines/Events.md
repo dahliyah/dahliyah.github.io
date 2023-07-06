@@ -1,7 +1,6 @@
 ---
 share: true
 tags: -ptolemy - greek - trypho - justinmartyr - septuagint
-source: https://www.youtube.com/watch?v=QL8kCXBIkMc
 ---
 
 
