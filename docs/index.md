@@ -16,3 +16,5 @@ Shalom, beloved brothers, and sisters! I am excited to share with you my deep di
 
 
 [Back to SetApart.top](https://setapart.top){ .md-button .md-button--primary }
+[Download Obsidian Vault](index.md#){ .md-button .md-button--primary }
+[Download Notes](index.md.md#){ .md-button .md-button--primary }

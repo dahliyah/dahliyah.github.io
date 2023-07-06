@@ -67,19 +67,18 @@ comments: true
 
 ## Miracles
 
-The other prophets did miracles too not just Yahusha.
-
+It's worth noting that the other prophets also performed miracles, not just Yahusha.
 
 > [!Bible] [1 Timothy 2:1-7 - KJV](https://bible-api.com/1timothy+2:1-7?translation=kjv) 
 <sup> 1 </sup>I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; <sup> 2 </sup>For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. <sup> 3 </sup>For this is good and acceptable in the sight of God our Saviour; <sup> 4 </sup>Who will have all men to be saved, and to come unto the knowledge of the truth. <sup> 5 </sup>For there is one God, and one mediator between God and men, the man Christ Jesus; <sup> 6 </sup>Who gave himself a ransom for all, to be testified in due time. <sup> 7 </sup>Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
 >  %% #bible #1timothy #1timothy2 %%
 
-## "God is Undefinable"
+## "God is Undefinable" ?
 
-Trinitarians hold a distinct interpretation of the term "God".
+Trinitarians hold a distinct interpretation of the term "God""
 
 - The term "God" possesses a distinct essence.
--  Trinity is idolatry. Three persons = three gods = *God the Father*, *God the Son*, *God the Holy Spirit*.
+-  Trinity is **idolatry**. Three persons = three gods = *God the Father*, *God the Son*, *God the Holy Spirit*.
 
 
 ## Before Abraham was, I AM
