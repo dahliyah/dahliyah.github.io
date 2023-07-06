@@ -39,7 +39,7 @@ Different passages have been taken out of context and verses removed from the Ma
 
  - [CHURCH FATHERS: Dialogue with Trypho (Justin Martyr)](https://www.newadvent.org/fathers/0128.htm)
 
-![Events](../../Events.md#)
+![Events](../Timelines/Events.md#)
 
 ## Enoch Mentioned in Scripture - [Enoch Study](../Book%20of%20Enoch/Enoch%20Study.md#)
 
