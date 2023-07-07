@@ -36,14 +36,12 @@ Many dispensationalists hold the belief that following the law has a different s
 |----|----|----|----|
 |repentance|G3340|metanoeō|to change one's mind, i.e. to repent:: to change one's mind for better, heartily to amend with abhorrence of one's past sins|
 
-
-
 to change one's mind for better, heartily to amend with abhorrence of one's **past sins**.
 
-To clarify, we must examine the concept referred to as "sin entails" which entails violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
+To clarify, we must examine the concept referred to as "sin" which entails violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
 
 
-![Eternal Torah > Paul Kept the Law](../Law/Eternal%20Torah.md#paul-kept-the-law)
+[Eternal Torah > Paul Kept the Law](../Law/Eternal%20Torah.md#paul-kept-the-law)
 
 ### Gentiles being grafted into Yisra'el
 > [!Bible] [Isaiah 57:19 - KJV](https://bible-api.com/isa+57:19?translation=kjv) [isaiah](isaiah.md#) [isaiah57](isaiah57.md#)
