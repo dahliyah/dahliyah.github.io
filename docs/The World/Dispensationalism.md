@@ -23,19 +23,24 @@ Dispensationalism views the Bible as dividing history into different "dispensati
 Many dispensationalists hold the belief that following the law has a different standard after the time of Yashusha.
 
 ###### 7 Dispensations
-1. d
-2. d
-3. d
-4. d
-5. d
-6. d
-7. d
+1. Innocence
+2. Conscience
+3. Human Government
+4. Promise
+5. Law
+6. Grace
+7. Millenial Kingdom
 
 ### Defining Repentance
-![![docs/The World/#^Table]]
+|Word|Strong's #|Transliteration|Definition|
+|----|----|----|----|
+|repentance|G3340|metanoeō|to change one's mind, i.e. to repent:: to change one's mind for better, heartily to amend with abhorrence of one's past sins|
+
+
+
 to change one's mind for better, heartily to amend with abhorrence of one's **past sins**.
 
-To clarify, we must examine the concept referred to as "sinentails" which entail violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
+To clarify, we must examine the concept referred to as "sin entails" which entails violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
 
 
 ![Eternal Torah > Paul Kept the Law](../Law/Eternal%20Torah.md#paul-kept-the-law)
