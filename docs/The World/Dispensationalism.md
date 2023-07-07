@@ -40,7 +40,7 @@ Many dispensationalists hold the belief that following the law has a different s
 
 to change one's mind for better, heartily to amend with abhorrence of one's **past sins**.
 
-To clarify, we must examine the concept referred to as "sin entails" which entails violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
+To clarify, we must examine the concept referred to as "sin" which entails violating the *commands* outlined in the Torah or <span style='color:#f7b731'>the Law</span>.
 
 
 ![Eternal Torah > Paul Kept the Law](../Law/Eternal%20Torah.md#paul-kept-the-law)
