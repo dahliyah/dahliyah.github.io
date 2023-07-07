@@ -9,7 +9,6 @@ repo_url: https://dahliyah.github.io
 
 theme:
     name: material       
-    custom_dir: overrides
     locale: en
     highlightjs: true
     hljs_languages:
