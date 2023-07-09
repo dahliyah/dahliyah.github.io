@@ -8,6 +8,11 @@ permissions:name: CI
 
 on: [push, pull_request]
 
+- name: Checkout
+  uses: actions/checkout@v3.5.3
+    with:
+      fetch-depth: 0
+
 jobs:
   test:
     strategy:
