@@ -118,7 +118,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
-    - git-revision-date-localized
+    - mkdocs-git-revision-date-localized
     - tags
     - glightbox
     - include-markdown
