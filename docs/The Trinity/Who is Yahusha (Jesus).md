@@ -137,5 +137,5 @@ Two types of death exist - earthly death and spiritual death. - [Two Deaths](Two
 >  <sup> **14** </sup>Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling. <sup> **15** </sup>But God will redeem my soul from the power of the grave: for he shall receive me. Selah.
  %% #bible #psalms #psalms49 %%
 
-- He sacrificed himself in order to ascend to the position of a [High Priest](../../Priesthood.md#high-priest) on our behalf.
+- He sacrificed himself in order to ascend to the position of a [High Priest](../Law/Priesthood.md#high-priest) on our behalf.
 - The sacrifice of Yahusha through <mark style='background:#20bf6b'>his death does not serve as an atonement for our sins.</mark>
