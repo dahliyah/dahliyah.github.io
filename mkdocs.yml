@@ -118,7 +118,6 @@ hooks:
     - docs/hooks.py
 
 plugins:
-    - search
     - git-revision-date-localized
     - tags
     - glightbox
