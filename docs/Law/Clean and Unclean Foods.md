@@ -7,8 +7,6 @@ chapter: 11
 
 # Clean and Unclean Foods
   
-No touching of the carcasses of the unclean animal. - Unclean till evening
-
 Leviticus 11  
 
 
@@ -22,7 +20,7 @@ Leviticus 11
 
 
 No touching of the carcasses of the unclean animal. - Unclean till evening
-No touching of the carcasses of the unclean animal. - Unclean till evening
+
 
 
 ## Vaccination of animals
