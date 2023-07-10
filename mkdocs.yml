@@ -66,6 +66,7 @@ markdown_extensions:
     - tables
     - admonition
     - pymdownx.betterem
+    - full_yaml_metadata
     - pymdownx.caret
     - pymdownx.critic
     - pymdownx.details
