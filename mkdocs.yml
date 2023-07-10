@@ -61,6 +61,7 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+    - callouts
     - pymdownx.tasklist:
         custom_checkbox: true
     - tables
