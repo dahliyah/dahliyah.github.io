@@ -36,6 +36,8 @@ extra:
 
 nav:
     - Home: index.md
+    - Biblical Cosmology:
+        - Earth: 
     - Law:
         - Eternal Torah: Law/Eternal Torah.md
         - Clean and Unclean Foods: Law/Clean and Unclean Foods.md
