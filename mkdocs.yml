@@ -6,7 +6,8 @@ repo_url: https://dahliyah.github.io
 
 
 theme:
-    name: mkdocs       
+    name: mkdocs
+    custom_dir: docs/overrides
     locale: en
     highlightjs: true
     hljs_languages:
