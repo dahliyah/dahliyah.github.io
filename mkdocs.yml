@@ -98,7 +98,6 @@ markdown_extensions:
         use_pygments: false
     - pymdownx.snippets
     - pymdownx.superfences
-    - callouts
     - mdx_gh_links:
         user: mkdocs
         repo: mkdocs
@@ -120,7 +119,6 @@ hooks:
 
 plugins:
     - git-revision-date-localized
-    - tags
     - glightbox
     - include-markdown
     - search
