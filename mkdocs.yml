@@ -37,7 +37,9 @@ extra:
 nav:
     - Home: index.md
     - Biblical Cosmology:
-        - Earth: 
+        - Earth: Biblical Cosmology/Earth.md
+        - Firmament: Biblical Cosmology/Firmament.md
+        - NASA: Biblical Cosmology/NASA.md
     - Law:
         - Eternal Torah: Law/Eternal Torah.md
         - Clean and Unclean Foods: Law/Clean and Unclean Foods.md
