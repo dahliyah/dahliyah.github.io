@@ -124,6 +124,7 @@ plugins:
     - search
     - autorefs
     - callouts
+    - git-revision-date-localized
     - literate-nav:
         nav_file: README.md
         implicit_index: true
