@@ -118,7 +118,6 @@ hooks:
     - docs/hooks.py
 
 plugins:
-    - git-revision-date-localized
     - glightbox
     - include-markdown
     - search
