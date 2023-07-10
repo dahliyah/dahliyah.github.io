@@ -6,7 +6,7 @@ repo_url: https://dahliyah.github.io
 
 
 theme:
-    name: material       
+    name: mkdocs       
     locale: en
     highlightjs: true
     hljs_languages:
