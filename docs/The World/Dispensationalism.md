@@ -1,5 +1,6 @@
 ---
 share: true
+comments: true
 source: https://www.youtube.com/live/qJJutvi3Ucs?feature=share&t=8046
 tags:
   - bible
