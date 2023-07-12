@@ -1,5 +1,6 @@
 ---
 share: true
+source: https://www.youtube.com/live/qJJutvi3Ucs?feature=share&t=8046
 tags:
   - bible
   - isaiah
@@ -15,7 +16,6 @@ tags:
 
 # Dispensationalism 
 
-https://www.youtube.com/live/qJJutvi3Ucs?feature=share&t=8046
 ##### What is Dispensationalism?
 Dispensationalism views the Bible as dividing history into different "dispensations" where God interacts with his chosen people in unique ways.
 
