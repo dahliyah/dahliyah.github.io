@@ -22,8 +22,6 @@ tags:
 
 # Earth
 
-![biblicalcosmology.png](./biblicalcosmology.png#)
-
 "six-day creation" = There is a debate regarding the creation of the earth in six literal days versus interpreting it metaphorically as a representation of *2398427389470329847192* years. Some individuals argue that the earth's origin dates back billions of years, while others maintain the belief in the literal interpretation of the six-day creation according to scripture.
 
 
