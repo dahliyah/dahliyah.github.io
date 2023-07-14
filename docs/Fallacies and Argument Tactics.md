@@ -1,15 +1,10 @@
 ---
 share: true
-
 ---
 
 # Fallacies and Argument Tactics
 
-
-
-
 ## Ad Hominems (to the person)
-
 
 ### You Also/Tu Quoque Fallacy
 
@@ -19,6 +14,7 @@ One should not dismiss an argument simply because the person presenting it does 
 - The speaker's character is being unfairly attacked instead of effectively countering the argument.
 
 #### Example
+
 >*Person 1*: It is imperative that you cease smoking as it presents a substantial risk to your well-being.
 >**Person 2**: It's ironic that you're telling me to quit when you haven't quit yourself.
 
