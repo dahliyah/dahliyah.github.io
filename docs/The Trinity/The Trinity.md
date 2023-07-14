@@ -18,6 +18,7 @@ tags:
   - matthew11
   - philippians
   - philippians2
+  - matthew19
   - the
 share: true
 hide:
@@ -111,7 +112,11 @@ Study for Context: [Psalms 2](Psalms%202.md#) | [Isaiah 42](Isaiah%2042.md#) | [
 >  <sup> **5** </sup>Let this mind be in you, which was also in Christ Jesus: <sup> **6** </sup>Who, being in the form of God, thought it not robbery to be equal with God: <sup> **7** </sup>But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: <sup> **8** </sup>And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
  %% #bible #philippians #philippians2 %%
 
+## Yahuah cannot be tempted
 
-
+> [!Bible] [Matthew 19:3 - KJV](https://bible-api.com/matt+19:3?translation=kjv) [matthew](matthew.md#) [matthew19](matthew19.md#)
+>  <sup> **3** </sup>The Pharisees also came unto him, <mark style='background:#8854d0'>tempting him</mark>, and saying unto him, Is it lawful for a man to put away his wife for every cause?
+ %% #bible #matthew #matthew19 %%
+ 
 ### Research to be Done
-- [ ] Do research on the phrase, "Son of Man" 📅 🛫   2023-07-04
+- [x] Do research on the phrase, "Son of Man" 📅 🛫 2023-07-04 ✅ 2023-07-14

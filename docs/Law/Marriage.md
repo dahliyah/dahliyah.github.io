@@ -24,7 +24,7 @@ In Israel, some men choose to run away to avoid taking responsibility for their 
 <mark style='background:#2d98da'>This does not align with the teachings of the Torah (Yahuah).</mark>
 
 > [!Bible] [Matthew 19:3 - KJV](https://bible-api.com/Matthew+19:3?translation=kjv) [matthew](matthew.md#) [matthew19](matthew19.md#)
->  <sup> **3** </sup>The Pharisees also came unto him, tempting him, and saying unto him, *Is it lawful for a man to put away his wife for **every cause**?*
+>  <sup> **3** </sup>The Pharisees also came unto him, [tempting him](../The%20Trinity/The%20Trinity.md#yahuah-cannot-be-tempted), and saying unto him, *Is it lawful for a man to put away his wife for **every cause**?*
  %% #bible #matthew #matthew19 %%
 
 > [!Bible] [Matthew 19:4-5 - KJV](https://bible-api.com/matt+19:4-5?translation=kjv) [matthew](matthew.md#) [matthew19](matthew19.md#)
