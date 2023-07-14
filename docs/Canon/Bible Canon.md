@@ -42,14 +42,13 @@ Jewish Pharisees at the time removed verses from the Masoretic and took differen
 
 ## Canons of Yonder
 ### 4th Century Ethiopic Old Testament
-![Pasted image 20230630002107.png](./Pasted%20image%2020230630002107.png#)
+
 
 
 ### 5th Century Syriac Old Testament (Peshitta)
-![Pasted image 20230630002300.png](./Pasted%20image%2020230630002300.png#)
+
 
 ### 14th Century Armenian Old Testament
-![Pasted image 20230630002520.png](./Pasted%20image%2020230630002520.png#)
+
 
 ### 20th Century Greek Septuagint Old Testament
-![Pasted image 20230630002807.png](../Pasted%20image%2020230630002807.png#)
