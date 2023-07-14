@@ -47,7 +47,7 @@ I saw the ends of the earth whereon the firmament rests, and the portals of the 
  %% #bible #genesis #genesis11 %%
 
 > [!Bible] [Genesis 7:11 - KJV](https://bible-api.com/gen+7:11?translation=kjv) [genesis](../../Genesis.md#) [genesis7](genesis7.md#)
->  <sup> **11** </sup>In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the *great deep* broken up, and the <span style='color:#fa8231'>windows of heaven</span> were opened.
+>  <sup> **11** </sup>In the six hundredth year of [Noah](../../Noah.md#)’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the *great deep* broken up, and the <span style='color:#fa8231'>windows of heaven</span> were opened.
  %% #bible #genesis #genesis7 %%
 
 
