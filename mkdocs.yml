@@ -127,6 +127,8 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - macros
+    - tags
     - include-markdown
     - search
     - autorefs
