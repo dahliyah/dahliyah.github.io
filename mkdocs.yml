@@ -128,6 +128,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - obsidian-bridge
     - tags
     - include-markdown
     - search
