@@ -128,7 +128,6 @@ hooks:
 
 plugins:
     - macros
-    - tags
     - include-markdown
     - search
     - autorefs
