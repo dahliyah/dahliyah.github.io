@@ -6,7 +6,7 @@ repo_url: https://dahliyah.github.io
 
 
 theme:
-    name: dracula
+    name: material
     custom_dir: docs/overrides
     locale: en
     highlightjs: true
@@ -132,7 +132,7 @@ plugins:
     - include-markdown
     - search
     - autorefs
-    - callouuts
+    - callouts
     - table-reader
     - rss
     - search
