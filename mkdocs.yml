@@ -127,10 +127,13 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - macros
+    - tags
     - include-markdown
     - search
     - autorefs
     - callouts
+    - toc-sidebar
     - table-reader
     - rss
     - search
