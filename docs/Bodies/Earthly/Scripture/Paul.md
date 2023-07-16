@@ -21,7 +21,7 @@ tags:
 
 Law - #H8451 - tôrâ - law, direction, instruction
 ### Romans Chapter 6
-> [!Bible] [Romans 6:15-18 - KJV](https://bible-api.com/Romans+6:15-18?translation=kjv) [romans](romans.md#) [romans6](romans6.md#)
+> [!Bible] [Romans 6:15-18 - KJV](https://bible-api.com/Romans+6:15-18?translation=kjv) [[romans]] [[romans6]]
 >  <sup> **15** </sup>What then? **shall we sin, because we are not under the law, but under grace**? God forbid. <sup> **16** </sup>Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness? <sup> **17** </sup>But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you. <sup> **18** </sup>*Being then made free from sin, ye became the servants of righteousness*.
  %% #bible #romans #romans6 %%
 
