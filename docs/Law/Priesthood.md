@@ -13,7 +13,7 @@ topic: priests, priesthood
 
 ## Offerings
 
-![Offerings](./Offerings.md#)
+![[./Offerings|Offerings]]
 
 
 ## Melchizedek 
