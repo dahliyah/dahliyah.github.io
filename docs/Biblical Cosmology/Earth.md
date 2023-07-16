@@ -25,11 +25,11 @@ tags:
 "six-day creation" = There is a debate regarding the creation of the earth in six literal days versus interpreting it metaphorically as a representation of *2398427389470329847192* years. Some individuals argue that the earth's origin dates back billions of years, while others maintain the belief in the literal interpretation of the six-day creation according to scripture.
 
 
-> [!Bible] [Revelation 1:7 - KJV](https://bible-api.com/rev+1:7?translation=kjv) [revelation](revelation.md#) [revelation1](revelation1.md#)
+> [!Bible] [Revelation 1:7 - KJV](https://bible-api.com/rev+1:7?translation=kjv) [[revelation]] [[revelation1]]
 >  <sup> **7** </sup>Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
  %% #bible #revelation #revelation1 %%
 
-> [!Bible] [Psalms 148:1-4 - KJV](https://bible-api.com/psalms+148:1-4?translation=kjv) [Psalms](Psalms.md#) [psalms148](psalms148.md#)
+> [!Bible] [Psalms 148:1-4 - KJV](https://bible-api.com/psalms+148:1-4?translation=kjv) [[Psalms]] [[psalms148]]
 >  <sup> **1** </sup>Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights. <sup> **2** </sup>Praise ye him, all his angels: praise ye him, all his hosts. <sup> **3** </sup>Praise ye him, sun and moon: praise him, all ye stars of light. <sup> **4** </sup>Praise him, ye heavens of heavens, and ye waters that be above the heavens.
  %% #bible #psalms #psalms148 %%
 
@@ -38,16 +38,16 @@ I saw the ends of the earth whereon the firmament rests, and the portals of the 
 
 
 
-> [!Bible] [Genesis 1:7 - KJV](https://bible-api.com/gen+1:7?translation=kjv) [genesis](../../Genesis.md#) [genesis1](genesis1.md#)
+> [!Bible] [Genesis 1:7 - KJV](https://bible-api.com/gen+1:7?translation=kjv) [[../../Genesis|genesis]] [[genesis1]]
 >  <sup> **7** </sup>And God made the firmament, and divided the waters which were  under the firmament from the waters which were above the firmament: and it was so.
  %% #bible #genesis #genesis1 %%
 
-> [!Bible] [Genesis 11:4 - KJV](https://bible-api.com/gen+11:4?translation=kjv) [genesis](../../Genesis.md#) [genesis11](genesis11.md#)
+> [!Bible] [Genesis 11:4 - KJV](https://bible-api.com/gen+11:4?translation=kjv) [[../../Genesis|genesis]] [[genesis11]]
 >  <sup> **4** </sup>And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the <span style='color:#f7b731'>face of the whole earth</span>.
  %% #bible #genesis #genesis11 %%
 
-> [!Bible] [Genesis 7:11 - KJV](https://bible-api.com/gen+7:11?translation=kjv) [genesis](../../Genesis.md#) [genesis7](genesis7.md#)
->  <sup> **11** </sup>In the six hundredth year of [Noah](../../Noah.md#)’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the *great deep* broken up, and the <span style='color:#fa8231'>windows of heaven</span> were opened.
+> [!Bible] [Genesis 7:11 - KJV](https://bible-api.com/gen+7:11?translation=kjv) [[../../Genesis|genesis]] [[genesis7]]
+>  <sup> **11** </sup>In the six hundredth year of [[../../Noah|Noah]]’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the *great deep* broken up, and the <span style='color:#fa8231'>windows of heaven</span> were opened.
  %% #bible #genesis #genesis7 %%
 
 
@@ -67,9 +67,9 @@ Isa. 40:22: “It is he that sitteth upon the circle of the earth, and the inhab
 
 
 
-## Hell / [Sheol](../../Sheol.md#)
+## Hell / [[../../Sheol|Sheol]]
 
-> [!Bible] [2 Peter 2:4 - KJV](https://bible-api.com/2peter+2:4?translation=kjv) [2peter](2peter.md#) [2peter2](2peter2.md#)
+> [!Bible] [2 Peter 2:4 - KJV](https://bible-api.com/2peter+2:4?translation=kjv) [[2peter]] [[2peter2]]
 >  <sup> **4** </sup>For if God spared not the angels that sinned, but cast them  down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
  %% #bible #2peter #2peter2 %%
 

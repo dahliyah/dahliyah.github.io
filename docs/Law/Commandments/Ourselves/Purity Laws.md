@@ -8,10 +8,14 @@ share: true
 
 ## Impurities
 
-- [Clean and Unclean Foods](./Clean%20and%20Unclean%20Foods.md#) - Leviticus 11:1-47
+- [[./Clean and Unclean Foods|Clean and Unclean Foods]] - Leviticus 11:1-47
 - Childbirth Discharges - Leviticus 12:1-8
 - Leprosy - (on skin and fabrics) Leviticus 14:1-32 - (on skin) Leviticus 14:1-32 - (walls) Leviticus 14:33-57
-- Bodily Discharges Leviticus 15:1-33
+- Bodily Discharges - Leviticus 15:1-33
+- Moral & Ethical Behavior - Leviticus 17-18
+- Beastiality
+- Eating the meat of animals torn by wild beasts
+- Use of blood, and fat in sacrifices
 
 
 
