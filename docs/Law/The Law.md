@@ -10,6 +10,12 @@ tags:
   - revelation14
   - deuteronomy
   - deuteronomy7
+  - exodus
+  - exodus20
+  - deuteronomy5
+  - john
+  - john14
+  - john15
   - galatians
   - galatians6
   - 1corinthians
@@ -44,6 +50,12 @@ Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
 >  <sup> **22** </sup>Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? <sup> **23** </sup>And then will I profess unto them, I never knew you: depart from me, ye that work **iniquity**[^1].
  %% #bible #matthew #matthew7 %%
 
+Some translations say *lawlessness* instead of **iniquity**.
+
+| Word     | Strong's # | Transliteration                                                                                                          | Phonetic     | Definition                                                                                                                 |
+|:---------|:-----------|:-------------------------------------------------------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------------|
+| iniquity | G458       | anomia | an-om-ee'-ah | illegality, i.e. violation of law or (genitive case) wickedness:—iniquity, × transgress(-ion of) the law, unrighteousness. |  
+
 > [!Bible] [Revelation 14:12 - KJV](https://bible-api.com/rev+14:12?translation=kjv) [[revelation]] [[revelation14]]
 >  <sup> **12** </sup>Here is the patience of the saints: here are they that **keep the commandments of God, and the faith of Jesus.**
  %% #bible #revelation #revelation14 %%
@@ -56,6 +68,25 @@ Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
  %% #bible #deuteronomy #deuteronomy7 %%
 
 
+> [!Bible] [Exodus 20:6 - KJV](https://bible-api.com/exo+20:6?translation=kjv) [[../../Exodus|exodus]] [[exodus20]]
+>  <sup> **6** </sup>And shewing *mercy unto thousands of them that love me, and keep my commandments*.
+ %% #bible #exodus #exodus20 %%
+
+> [!Bible] [Deuteronomy 5:10 - KJV](https://bible-api.com/deu+5:10?translation=kjv) [[deuteronomy]] [[deuteronomy5]]
+>  <sup> **10** </sup>And shewing *mercy unto thousands of them that love me and keep my commandments*.
+ %% #bible #deuteronomy #deuteronomy5 %%
+
+> [!Bible] [John 14:14-15 - KJV](https://bible-api.com/john+14:14-15?translation=kjv) [[john]] [[john14]]
+>  <sup> **14** </sup>If ye shall ask any thing in my name, I will do it. <sup> **15** </sup>*If ye love me, keep my commandments.*
+ %% #bible #john #john14 %%
+
+> [!Bible] [John 14:21 - KJV](https://bible-api.com/john+14:21?translation=kjv) [[john]] [[john14]]
+>  <sup> **21** </sup>He that hath *my commandments*, and *keepeth them*, *he it is that loveth me*: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
+ %% #bible #john #john14 %%
+
+> [!Bible] [John 15:10 - KJV](https://bible-api.com/john+15:10?translation=kjv) [[john]] [[john15]]
+>  <sup> **10** </sup>If ye *keep my commandments*, ye shall *abide in my love*; even as *I have kept my Father’s commandments*, and *abide in his love*.
+ %% #bible #john #john15 %%
 
 ## Law of Moses // Law of Mashiach
 
