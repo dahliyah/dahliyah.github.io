@@ -30,7 +30,7 @@ comments: true
 
 
 
-> **Definition:** defines [one God](https://en.wikipedia.org/wiki/Monotheism "Monotheism") existing in three [coequal](https://en.wiktionary.org/wiki/coequal "wikt:coequal"), [coeternal](https://en.wiktionary.org/wiki/coeternal "wikt:coeternal"), [consubstantial](https://en.wikipedia.org/wiki/Consubstantiality "Consubstantiality") [divine persons](https://en.wikipedia.org/wiki/Prosopon "Prosopon"):<sup id="cite_ref-FOOTNOTEDaley2009323–350_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTEDaley2009323–350-2">[2]</a></sup><sup id="cite_ref-FOOTNOTERamelli2012_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTERamelli2012-3">[3]</a></sup> [God the Father](https://en.wikipedia.org/wiki/God_the_Father_(Christianity) "God the Father (Christianity)"), [God the Son](https://en.wikipedia.org/wiki/God_the_Son "God the Son") ([Jesus Christ](https://en.wikipedia.org/wiki/Jesus_in_Christianity "Jesus in Christianity")) and [God the Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit_in_Christianity "Holy Spirit in Christianity"), three distinct persons (hypostases) sharing one essence/substance/nature [Homoousion](../../Homoousion.md#)
+> **Definition:** defines [one God](https://en.wikipedia.org/wiki/Monotheism "Monotheism") existing in three [coequal](https://en.wiktionary.org/wiki/coequal "wikt:coequal"), [coeternal](https://en.wiktionary.org/wiki/coeternal "wikt:coeternal"), [consubstantial](https://en.wikipedia.org/wiki/Consubstantiality "Consubstantiality") [divine persons](https://en.wikipedia.org/wiki/Prosopon "Prosopon"):<sup id="cite_ref-FOOTNOTEDaley2009323–350_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTEDaley2009323–350-2">[2]</a></sup><sup id="cite_ref-FOOTNOTERamelli2012_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTERamelli2012-3">[3]</a></sup> [God the Father](https://en.wikipedia.org/wiki/God_the_Father_(Christianity) "God the Father (Christianity)"), [God the Son](https://en.wikipedia.org/wiki/God_the_Son "God the Son") ([Jesus Christ](https://en.wikipedia.org/wiki/Jesus_in_Christianity "Jesus in Christianity")) and [God the Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit_in_Christianity "Holy Spirit in Christianity"), three distinct persons (hypostases) sharing one essence/substance/nature [[../../Homoousion|Homoousion]]
 
 ## Begotten 
 
@@ -95,26 +95,26 @@ Trinitarians hold a distinct interpretation of the term "God""
 
 ## Isaiah 35:4-6 / Matthew 11:4-6
 
-> [!Bible] [Isaiah 35:4-6 - KJV](https://bible-api.com/isa+35:4-6?translation=kjv) [isaiah](isaiah.md#) [isaiah35](isaiah35.md#)
+> [!Bible] [Isaiah 35:4-6 - KJV](https://bible-api.com/isa+35:4-6?translation=kjv) [[isaiah]] [[isaiah35]]
 >  <sup> **4** </sup>Say to them that are of a fearful heart, Be strong, fear not: behold, your *God will come with vengeance*, even God with a recompence; *he will come and save you*. <sup> **5** </sup>**Then the eyes of the blind shall be opened**, and the **ears of the deaf shall be unstopped**. <sup> **6** </sup>Then shall the **lame man leap as an hart**, and the **tongue of the dumb sing**: for in the wilderness shall waters break out, and streams in the desert.
  %% #bible #isaiah #isaiah35 %%
 
 
-> [!Bible] [Matthew 11:4-6 - KJV](https://bible-api.com/matt+11:4-6?translation=kjv) [matthew](matthew.md#) [matthew11](matthew11.md#)
+> [!Bible] [Matthew 11:4-6 - KJV](https://bible-api.com/matt+11:4-6?translation=kjv) [[matthew]] [[matthew11]]
 >  <sup> **4** </sup>Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: <sup> **5** </sup>**The blind receive their sight**, and **the lame walk**, the lepers are cleansed, and **the deaf hear**, **the dead are raised up**, and the poor have the gospel preached to them. <sup> **6** </sup>And blessed is he, whosoever shall not be offended in me.
  %% #bible #matthew #matthew11 %%
 
 
-Study for Context: [Psalms 2](Psalms%202.md#) | [Isaiah 42](Isaiah%2042.md#) | [Isaiah 53](Isaiah%2053.md#)
+Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[Isaiah 53]]
 ## 
 
-> [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [philippians](philippians.md#) [philippians2](philippians2.md#)
+> [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [[philippians]] [[philippians2]]
 >  <sup> **5** </sup>Let this mind be in you, which was also in Christ Jesus: <sup> **6** </sup>Who, being in the form of God, thought it not robbery to be equal with God: <sup> **7** </sup>But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: <sup> **8** </sup>And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
  %% #bible #philippians #philippians2 %%
 
 ## Yahuah cannot be tempted
 
-> [!Bible] [Matthew 19:3 - KJV](https://bible-api.com/matt+19:3?translation=kjv) [matthew](matthew.md#) [matthew19](matthew19.md#)
+> [!Bible] [Matthew 19:3 - KJV](https://bible-api.com/matt+19:3?translation=kjv) [[matthew]] [[matthew19]]
 >  <sup> **3** </sup>The Pharisees also came unto him, <mark style='background:#8854d0'>tempting him</mark>, and saying unto him, Is it lawful for a man to put away his wife for every cause?
  %% #bible #matthew #matthew19 %%
  

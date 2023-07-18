@@ -12,15 +12,15 @@ share: true
 ### First of the Greek Translations
 ```ad-note
 title: Aquila of Snope
-[Aquila of Sinope](Aquila%20of%20Sinope.md#) - **Aquila** (Hebrew: עֲקִילַס ʿăqīlas, fl. 130 AD) of Sinope (modern-day Sinop, Turkey; Latin: Aquila Ponticus) was a translator of the Hebrew Bible into Greek, a proselyte, and disciple of *Rabbi Akiva*.
+[[Aquila of Sinope]] - **Aquila** (Hebrew: עֲקִילַס ʿăqīlas, fl. 130 AD) of Sinope (modern-day Sinop, Turkey; Latin: Aquila Ponticus) was a translator of the Hebrew Bible into Greek, a proselyte, and disciple of *Rabbi Akiva*.
 ```
 
 - *Akiva* ben Yosef (Mishnaic Hebrew: עֲקִיבָא בֶּן יוֹסֵף, ʿĂqīḇā ben Yōsēp̄; c. 50 – 28 September 135 CE),[1] also known as Rabbi Akiva (רַבִּי עֲקִיבָא), was a leading Jewish scholar and sage, a tanna of the latter part of the first century and the beginning of the second century. Rabbi Akiva was a leading contributor to the Mishnah and to Midrash halakha. He is *referred to in the Talmud* as Rosh la-Hakhamim "Chief of the Sages". He was executed by the Romans in the aftermath of the Bar Kokhba revolt.
 
-![Translations](../../Translations.md#)
+![[../../Translations|Translations]]
 
 
-*History of [Bible Canon](./Bible%20Canon.md#)*
+*History of [[./Bible Canon|Bible Canon]]*
 
 
 ## LXX vs. MT
@@ -41,5 +41,5 @@ title: Aquila of Snope
 |    Isaiah 7:14        |    And the head of Ephraim is Somoron, and the head of Somoron the son of Romelias: but if ye believe not, neither will ye at all understand                                                                                                                                                                                                                                            |    And the head of Ephraim is Samaria, and the head of Samaria is Remaliah's son. If ye will not believe, surely ye shall not be established.                                                                                                                                                                   |
 |    Deuteronomy 8:3    |    And he afflicted thee and straitened thee with hunger, and fed thee with manna, which thy fathers knew not; that he might teach thee that man shall not live by bread alone, but by every word that proceeds out of the mouth of God shall man live.                                                                                                                                 |    And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.                            |  
 
-![Events](../Timelines/Events.md#)
+![[../Timelines/Events|Events]]
 
