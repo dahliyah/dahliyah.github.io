@@ -8,6 +8,8 @@ tags:
   - matthew7
   - revelation
   - revelation14
+  - deuteronomy
+  - deuteronomy7
   - galatians
   - galatians6
   - 1corinthians
@@ -23,6 +25,12 @@ tags:
 
 The law was given before Moses received them on Mount Sinai.
 We are not under the new covenant yet.
+
+### What is Law?
+
+|Word|Strong's #|Transliteration|Phonetic|Definition|
+|----|----|----|----|----|
+|law|H8451|tôrâ|to-raw'|law, direction, instruction|
 
 Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
 
@@ -41,10 +49,22 @@ Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
  %% #bible #revelation #revelation14 %%
 
 
+## If we love him.. we will...
+
+> [!Bible] [Deuteronomy 7:9 - KJV](https://bible-api.com/deut+7:9?translation=kjv) [[deuteronomy]] [[deuteronomy7]]
+>  <sup> **9** </sup>Know therefore that the LORD thy God, he is God, the faithful God, which keepeth *covenant and mercy with them that love him and keep his commandments to a thousand generations*;
+ %% #bible #deuteronomy #deuteronomy7 %%
+
+
 
 ## Law of Moses // Law of Mashiach
 
 ### What is Law?
+
+|Word|Strong's #|Transliteration|Phonetic|Definition|
+|----|----|----|----|----|
+|law|H8451|tôrâ|to-raw'|law, direction, instruction|
+
 
 original_word:: תּוֹרָה
 strongs:: H8451
