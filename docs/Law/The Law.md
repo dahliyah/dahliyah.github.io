@@ -29,6 +29,9 @@ tags:
 
 # The Law
 
+![[./The Law Diagram.canvas|The Law Diagram]]
+
+
 The law was given before Moses received them on Mount Sinai.
 We are not under the new covenant yet.
 
