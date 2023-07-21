@@ -1,11 +1,16 @@
 ---
 share: true
+comments: true
 tags:
   - bible
   - ecclesiastes
   - ecclesiastes12
   - matthew
   - matthew7
+  - 1john
+  - 1john3
+  - romans
+  - romans7
   - revelation
   - revelation14
   - deuteronomy
@@ -57,7 +62,21 @@ Some translations say *lawlessness* instead of **iniquity**.
 
 | Word     | Strong's # | Transliteration                                                                                                          | Phonetic     | Definition                                                                                                                 |
 |:---------|:-----------|:-------------------------------------------------------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------------|
-| iniquity | G458       | anomia | an-om-ee'-ah | illegality, i.e. violation of law or (genitive case) wickedness:—iniquity, × transgress(-ion of) the law, unrighteousness. |  
+| iniquity | G458       | anomia | an-om-ee'-ah | illegality, i.e. violation of law or (genitive case) wickedness:—iniquity,  **transgress(-ion of) the law**, unrighteousness. |  
+
+What is transgression of the law? 
+
+> [!Bible] [1 John 3:4 - KJV](https://bible-api.com/1john+3:4?translation=kjv) [[1john]] [[1john3]]
+>  <sup> **4** </sup>Whosoever committeth sin **transgresseth also the law**: for *sin* is the transgression of the law.
+ %% #bible #1john #1john3 %%
+
+> [!Bible] [Romans 7:7 - KJV](https://bible-api.com/romans+7:7?translation=kjv) [[romans]] [[romans7]]
+>  <sup> **7** </sup>What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
+ %% #bible #romans #romans7 %%
+
+
+
+---
 
 > [!Bible] [Revelation 14:12 - KJV](https://bible-api.com/rev+14:12?translation=kjv) [[revelation]] [[revelation14]]
 >  <sup> **12** </sup>Here is the patience of the saints: here are they that **keep the commandments of God, and the faith of Jesus.**
@@ -136,7 +155,8 @@ So these three sections is Paul meeting people where they are, partaking in the 
  %% #bible #acts #acts13 %%
 
 
-
+### Works of the Law
+My guess and correct me if I am wrong in the comments below is that "works of the law" are the extra man-made pharisaical laws placed on the Yahudiym.
 
 
 
