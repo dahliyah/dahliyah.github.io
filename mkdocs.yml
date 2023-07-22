@@ -36,7 +36,6 @@ extra:
 
 nav:
     - Home: index.md
-        - Resources: Links to Resources.md
     - Biblical Cosmology:
         - Earth: Biblical Cosmology/Earth.md
         - Firmament: Biblical Cosmology/Firmament.md
@@ -69,7 +68,8 @@ nav:
         - Events: Timelines/Events.md
     - Fallacies: Fallacies and Argument Tactics.md
     - Donate: https://cash.app/$dahlialo
-
+    - Extras:
+        - Resources: Links to Resources.md
 extra_css:
     - css/extra.css
 
