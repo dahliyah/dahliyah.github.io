@@ -123,3 +123,6 @@ Two types of death exist - earthly death and spiritual death. - [[Two Deaths]]
 
 - He sacrificed himself in order to ascend to the position of a [[../Law/Priesthood#High Priest|High Priest]] on our behalf.
 - The sacrifice of Yahusha through <mark style='background:#20bf6b'>his death does not serve as an atonement for our sins.</mark>
+
+
+### His Walk
