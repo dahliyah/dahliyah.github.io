@@ -105,7 +105,7 @@ Trinitarians hold a distinct interpretation of the term "God""
  %% #bible #matthew #matthew11 %%
 
 
-Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[Isaiah 53]]
+Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
 ## 
 
 > [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [[philippians]] [[philippians2]]
