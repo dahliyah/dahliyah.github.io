@@ -7,6 +7,9 @@ tags:
   - polygyny
   - exodus
   - exodus21
+  - H7604
+  - H3682
+  - H5772
   - 1timothy
   - 1timothy5
   - 1corinthians
@@ -14,8 +17,6 @@ tags:
   - deuteronomy
   - deuteronomy22
 ---
-
-
 
 
 ### “Chained” Women, or Agunot 
@@ -39,7 +40,7 @@ In Israel, some men choose to run away to avoid taking responsibility for their 
 >  <sup> **9** </sup>And I say unto you, Whosoever shall put away his wife, *except* it be **for fornication**, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
  %% #bible #matthew #matthew19 %%
 
-**STAY WITH YOUR HUSBAND/WIFE**, *unless* something really bad is going on.
+**STAY WITH YOUR HUSBAND/WIFE**, unless for the obvious reasons.
 
 Divorce was given to us for protection from sin.
 
@@ -49,20 +50,33 @@ Divorce was given to us for protection from sin.
 >  <sup> **10** </sup>**If** And if he take another to himself, he **shall not** deprive her of *necessaries* and her *apparel*, and her *companionship* [with him]. <sup> **11** </sup>And *if he will not* do these **three** things to her, she *shall go out free* without money.
  %% #bible #exodus #exodus21 %%
  
-This is <mark style='background:#f7b731'>not</mark> a prescription for polygyny.
+- [!] This is <mark style='background:#f7b731'>not</mark> a prescription for polygyny. ➕ 2023-07-22
+
+He shall not deprive his first wife of *necessaries*, *apparel*, and *companionship*.
+
+*necessaries/food* - #H7604 - sheh-ayr' -  as living or for food, generally food of any kind, kindred by blood: - body, flesh, food
+
+*apparel/rainment* - #H3682 - kes-ooth' - a cover (garment); figuratively a veiling: - covering, raiment, vesture. 
+
+*companionship/duty of marriage* - #H5772 - o-naw' - from an unused root apparently meaning to dwell together; (sexual) cohabitation: - duty of marriage
 
 > [!Bible] [1 Timothy 5:8 - KJV](https://bible-api.com/1tim+5:8?translation=kjv) [[1timothy]] [[1timothy5]]
 >  <sup> **8** </sup>But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is *worse* than an **infidel**.
  %% #bible #1timothy #1timothy5 %%
 
+<br>
+> [!NOTE]My Comments
 
-
+ - [n] If someone *does not* provide for his own, meaning wife, wives, and children, especially those in his own house, then his faith (actions/beliefs) do not align with Yah and he is called even WORSE than an unbeliever. 
+ - [n] Given that you read scripture and **KNOW** that this is the wrong thing to do, it is as if you willingly deny the commandments. ➕ 2023-07-22
 
 ### Sexual Immorality / Fornication
-
 > [!Bible] [1 Corinthians 7:1-2 - KJV](https://bible-api.com/1cor+7:1-2?translation=kjv) [[1corinthians]] [[1corinthians7]]
 >  <sup> **1** </sup>Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman. <sup> **2** </sup>Nevertheless, **to avoid fornication**, let *every man* have his *own wife*, and let *every woman* have her *own husband*.
  %% #bible #1corinthians #1corinthians7 %%
+
+<br>
+> [!NOTE] My Comments
 
 ### Divorce
 
