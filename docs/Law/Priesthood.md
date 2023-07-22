@@ -24,7 +24,7 @@ Hebrews 5:5-10
 ## High Priest
 
 - [ ] Read John 5 for Context
-- [ ] Read Isaiah 53
-- [ ] Isaiah 53:12 - Priesthood
+- [ ] Read [[../../Isaiah 53|Isaiah 53]]
+- [?] [[../../Isaiah 53|Isaiah 53:12#]] - Priesthood
 - [ ] Leviticus 10:17
 
