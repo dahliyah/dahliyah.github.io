@@ -132,6 +132,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - mkdocs-backlinks
     - obsidian-bridge
     - tags
     - include-markdown
