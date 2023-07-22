@@ -36,7 +36,7 @@ extra:
 
 nav:
     - Home: index.md
-        - Links & Resources: Links to Resources.md
+        - Links and Resources: Links to Resources.md
     - Biblical Cosmology:
         - Earth: Biblical Cosmology/Earth.md
         - Firmament: Biblical Cosmology/Firmament.md
