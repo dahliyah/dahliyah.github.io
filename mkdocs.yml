@@ -88,7 +88,6 @@ markdown_extensions:
     - pymdownx.escapeall
     - pymdownx.extra
     - pymdownx.highlight
-        line_spans: __span
     - pymdownx.inlinehilite
     - pymdownx.keys
     - pymdownx.magiclink
