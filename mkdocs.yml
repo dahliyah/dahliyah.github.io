@@ -88,6 +88,7 @@ markdown_extensions:
     - pymdownx.escapeall
     - pymdownx.extra
     - pymdownx.highlight
+        line_spans: __span
     - pymdownx.inlinehilite
     - pymdownx.keys
     - pymdownx.magiclink
@@ -101,6 +102,7 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.tabbed
     - pymdownx.tasklist
+        custom_checkbox: true
     - pymdownx.tilde
     - footnotes
     - toc:
