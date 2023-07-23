@@ -140,6 +140,11 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - git-revision-date-localized:
+        type: timeago
+    - autolinks
+    - section-index
+    - mkdocs-newsletter
     - pub-obsidian
     - mkdocs-backlinks
     - obsidian-bridge
@@ -152,7 +157,6 @@ plugins:
     - rss
     - search
     - title-casing
-    - git-revision-date-localized
     - git-revision-date
     - literate-nav:
         nav_file: README.md
