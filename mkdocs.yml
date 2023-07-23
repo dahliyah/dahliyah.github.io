@@ -144,6 +144,7 @@ plugins:
     - git-revision-date-localized:
         type: timeago
     - autolinks
+    - rss
     - section-index
     - pub-obsidian
     - mkdocs-backlinks
