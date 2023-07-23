@@ -145,7 +145,6 @@ plugins:
         type: timeago
     - autolinks
     - section-index
-    - mkdocs-newsletter
     - pub-obsidian
     - mkdocs-backlinks
     - obsidian-bridge
