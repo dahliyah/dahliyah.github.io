@@ -135,6 +135,7 @@ hooks:
     - docs/hooks.py
 
 plugins:
+    - pub-obsidian
     - mkdocs-backlinks
     - obsidian-bridge
     - tags
