@@ -71,9 +71,12 @@ nav:
     - Extras:
         - Resources: Links to Resources.md
 
-        
+
 extra_css:
     - css/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 markdown_extensions:
     - callouts
