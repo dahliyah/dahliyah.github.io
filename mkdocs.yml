@@ -157,6 +157,9 @@ plugins:
     - table-reader
     - rss
     - search
+    - exclude-search:
+        exclude:
+            - newsletter/*
     - title-casing
     - git-revision-date
     - literate-nav:
