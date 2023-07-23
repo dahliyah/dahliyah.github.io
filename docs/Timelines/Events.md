@@ -1,6 +1,6 @@
 ---
 share: true
-tags: -ptolemy - greek - trypho - justinmartyr - septuagint
+tags: ptolemy, greek, trypho, justinmartyr, septuagint
 ---
 
 
