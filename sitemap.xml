@@ -66,6 +66,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dahliyah.github.io/Events/Canon/Septuagint%20and%20the%20Masoretic%20Text/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dahliyah.github.io/Law/Eternal%20Torah/</loc>
          <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
@@ -146,7 +151,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dahliyah.github.io/Timelines/Events/</loc>
+         <loc>https://dahliyah.github.io/newsletter/0_newsletter_index/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dahliyah.github.io/newsletter/2015/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dahliyah.github.io/newsletter/2015_05/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dahliyah.github.io/newsletter/2015_05_13/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dahliyah.github.io/newsletter/2015_w19/</loc>
          <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
