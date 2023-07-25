@@ -5,6 +5,8 @@ tags:
   - matthew
   - matthew19
   - polygyny
+  - genesis
+  - genesis4
   - exodus
   - exodus21
   - H7604
@@ -19,7 +21,8 @@ tags:
 ---
 
 
-### “Chained” Women, or Agunot 
+## “Chained” Women, or Agunot 
+
 *Agunot* are women trapped in marriages because they cannot receive a rabbinic divorce. It's due to their husbands or their husband's male next of kin being unable or unwilling to provide one. The term "*agunot*" comes from the Hebrew word for "<span style='color:#fa8231'>anchor</span>."
 
 In Israel, some men choose to run away to avoid taking responsibility for their families since getting a divorce is quite difficult there.
@@ -44,7 +47,14 @@ In Israel, some men choose to run away to avoid taking responsibility for their 
 
 Divorce was given to us for protection from sin.
 
-### Polygyny #polygyny
+## Polygyny #polygyny
+
+### First Mention
+> [!Bible] [Genesis 4:19 - KJV](https://bible-api.com/gen+4:19?translation=kjv) [[../../Genesis|genesis]] [[../../genesis4|genesis4]]
+>  <sup> **19** </sup>And Lamech took unto him **two wives**: the name of the one was  Adah, and the name of the other Zillah.
+ %% #bible #genesis #genesis4 %%
+
+### Multiple Wives
 
 > [!Bible] [Exodus 21:10-11 - LXX](http://qbible.com/brenton-septuagint/exodus/21.html#10) [[../../Exodus|exodus]] [[exodus21]]
 >  <sup> **10** </sup>**If** And if he take another to himself, he **shall not** deprive her of *necessaries* and her *apparel*, and her *companionship* [with him]. <sup> **11** </sup>And *if he will not* do these **three** things to her, she *shall go out free* without money.
