@@ -113,12 +113,12 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: current_folder
-  source_form_result: FROM sept-vs-mt
+  source_data: tag
+  source_form_result: "#sept-vs-mt"
   source_destination_path: docs/Events/Canon/Events
   row_templates_folder: /
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 105
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
