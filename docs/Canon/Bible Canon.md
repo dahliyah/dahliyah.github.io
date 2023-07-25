@@ -31,7 +31,7 @@ Jewish Pharisees at the time removed verses from the Masoretic and took differen
 
  - [CHURCH FATHERS: Dialogue with Trypho (Justin Martyr)](https://www.newadvent.org/fathers/0128.htm)
 
-![[../Timelines/Events|Events]]
+![[../../Events|Events]]
 
 ## Enoch Mentioned in Scripture - [[../Book of Enoch/Enoch Study|Enoch Study]]
 
