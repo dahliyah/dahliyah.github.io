@@ -3,10 +3,14 @@ title: null
 tags:
   - the trinity
   - trinity
-  - G166
-  - H2305
   - bible
   - john
+  - john5
+  - exodus
+  - exodus7
+  - john1
+  - G166
+  - H2305
   - john2
   - john10
   - 1timothy
@@ -19,6 +23,8 @@ tags:
   - philippians
   - philippians2
   - matthew19
+  - titus
+  - titus2
   - the
 share: true
 hide:
@@ -29,10 +35,39 @@ comments: true
 # The Trinity
 
 
+- Usually, people accuse others of [[Judaizing]] which they believe means that you are wrong for telling people that you must follow the commandments of Yahuah.
+
+## The Father
+
+> [!Bible] [John 5:37 - KJV](https://bible-api.com/john+5:37?translation=kjv) [[john]] [[john5]]
+>  <sup> **37** </sup>And the Father himself, which hath sent me, hath borne witness of me. *Ye have neither heard his voice **at any time**, nor seen his shape.*
+ %% #bible #john #john5 %%
+
+
+
+### Yahuah explains the agency
+
+> [!Bible] [Exodus 7:1 - KJV](https://bible-api.com/exodus+7:1?translation=kjv) [[../../Exodus|exodus]] [[exodus7]]
+>  <sup> **1** </sup>And the LORD said unto *Moses*, See, I have made thee **a god to Pharaoh**: and *Aaron thy brother* shall be **thy prophet**.
+ %% #bible #exodus #exodus7 %%
+
+
+
+## The Son
+
+> [!Bible] [John 1:1 - KJV](https://bible-api.com/john+1:1?translation=kjv) [[john]] [[john1]]
+>  <sup> **1** </sup>In the beginning was the Word, and the Word was with God, and the Word was God.
+ %% #bible #john #john1 %%
+
+In the beginning was Yahusha, and Yahusha was with Elohiym, and Yahusha was elohiym.
+
+> [!Bible] [John 1:2 - KJV](https://bible-api.com/john+1:2?translation=kjv) [[john]] [[john1]]
+>  <sup> **2** </sup>The same was in the beginning with God.
+ %% #bible #john #john1 %%
 
 > **Definition:** defines [one God](https://en.wikipedia.org/wiki/Monotheism "Monotheism") existing in three [coequal](https://en.wiktionary.org/wiki/coequal "wikt:coequal"), [coeternal](https://en.wiktionary.org/wiki/coeternal "wikt:coeternal"), [consubstantial](https://en.wikipedia.org/wiki/Consubstantiality "Consubstantiality") [divine persons](https://en.wikipedia.org/wiki/Prosopon "Prosopon"):<sup id="cite_ref-FOOTNOTEDaley2009323–350_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTEDaley2009323–350-2">[2]</a></sup><sup id="cite_ref-FOOTNOTERamelli2012_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTERamelli2012-3">[3]</a></sup> [God the Father](https://en.wikipedia.org/wiki/God_the_Father_(Christianity) "God the Father (Christianity)"), [God the Son](https://en.wikipedia.org/wiki/God_the_Son "God the Son") ([Jesus Christ](https://en.wikipedia.org/wiki/Jesus_in_Christianity "Jesus in Christianity")) and [God the Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit_in_Christianity "Holy Spirit in Christianity"), three distinct persons (hypostases) sharing one essence/substance/nature [[../../Homoousion|Homoousion]]
 
-## Begotten 
+### Begotten 
 
 *eternally begotten* does not make sense.
 
@@ -42,9 +77,7 @@ comments: true
 | begotten  | #H2305     | yaw-lad'       | to bear, bring forth, beget, gender, travail                             |  
 
 
-
-
-## Yahusha raising himself
+### Yahusha raising himself
 
 - John 2:19 - Trinitarian - "*I will raise* it up" "temple of his body"
 
@@ -120,3 +153,12 @@ Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
  
 ### Research to be Done
 - [x] Do research on the phrase, "Son of Man" 📅 🛫 2023-07-04 ✅ 2023-07-14
+
+
+## Titus 2:13
+
+> [!Bible] [Titus 2:13 - KJV](https://bible-api.com/titus+2:13?translation=kjv) [[titus]] [[titus2]]
+>  <sup> **13** </sup>Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+ %% #bible #titus #titus2 %%
+
+- [r] Trinity Verse: Titus 2:13 🔺 ➕ 2023-07-25

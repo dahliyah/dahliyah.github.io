@@ -82,7 +82,7 @@ chapter 55
  30:17
  ```
 
-- [ ] what is the Head of Days?
+- [ ] what is the [[Head of Days]]?
 
 ```timestamp 
  36:43

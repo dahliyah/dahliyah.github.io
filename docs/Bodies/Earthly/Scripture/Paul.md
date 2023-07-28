@@ -1,6 +1,7 @@
 ---
 topic: paul, the law
 share: true
+sticker: lucide//person-standing
 tags:
   - H8451
   - bible
@@ -42,9 +43,12 @@ strongs:: G1343
 phonetic spelling:: dik-ah-yos-oo'-nay
 definition:: the doctrine concerning the way in which man may attain a state approved of God
 
-- [ ] Look into unintentional sins
+- [ ] Look into [[unintentional sins]]
 
 Law in the heart - can not people grow in their understanding of walking in Messiah?
+
+
+
 
 
 
