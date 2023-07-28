@@ -43,7 +43,7 @@ nav:
     - Calendar:
         - Feasts:
             - How do we celebrate it?: Calendar/Feasts/How do we celebrate it.md
-    - Laws:
+    - Law:
         - Clean and Unclean Foods: Law/Commandments/Ourselves/Clean and Unclean Foods.md
         - Commandments: Law/Commandments/613 Commandments.md
         - Eternal Torah: Law/Eternal Torah.md
@@ -54,22 +54,21 @@ nav:
     - Canon:
         - Bible Canon: Canon/Bible Canon.md
         - Septuagint: Canon/Septuagint Text Family.md
+        - Enoch Study: Book of Enoch/Enoch Study.md
     - The Trinity:
         - The Trinity: The Trinity/The Trinity.md
         - Who is Yahusha (Jesus): The Trinity/Who is Yahusha (Jesus).md
     - Bodies:
         - Living Soul: Bodies/Living Soul.md
-    - Book of Enoch:
-        - Enoch Study: Book of Enoch/Enoch Study.md
     - The World:
         - New Age: The World/New Age.md
         - Dispensationalism: The World/Dispensationalism.md
     - Timelines:
         - Events: Events/Canon/Septuagint and the Masoretic Text.md
     - Fallacies: Fallacies and Argument Tactics.md
-    - Donate: https://cash.app/$dahlialo
     - Extras:
         - Resources: Links to Resources.md
+        - Donate: https://cash.app/$dahlialo
 
 
 extra_css:
