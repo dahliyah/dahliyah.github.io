@@ -1,5 +1,6 @@
 ---
 share: true
+sticker: lucide//asterisk
 tags:
   - bible
   - jeremiah

@@ -33,6 +33,7 @@ tags:
   - acts
   - acts13
   - romans3
+  - galatians3
 ---
 
 
@@ -146,7 +147,11 @@ transliteration:: tôrâ
 phonetic spelling:: to-raw'
 definition:: law, direction, instruction
 
-> [!Bible] [Galatians 6:2 - KJV](https://bible-api.com/gal+6:2?translation=kjv)
+
+
+## Paul
+
+> [!Bible] [Galatians 6:2 - KJV](https://bible-api.com/gal+6:2?translation=kjv) [[../../galatians|galatians]] [[galatians6]]
 >  <sup> **2** </sup>Bear ye one another’s burdens, and so fulfil the law of Christ.
  %% #bible #galatians #galatians6 %%
 
@@ -174,10 +179,18 @@ So these three sections is Paul meeting people where they are, partaking in the 
 #### Romans 3:20
 
 > [!Bible] [Romans 3:20 - KJV](https://bible-api.com/romans+3:20?translation=kjv) [[romans]] [[romans3]]
->  <sup> **20** </sup>
+>  <sup> **20** </sup>Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
  %% #bible #romans #romans3 %%
  
 - [n] My guess is that the "works of the law" are the extra man-made pharisaical laws placed on the Yahudiym. ➕ 2023-07-21
+
+### "The Law is a curse"
+
+> [!Bible] [Galatians 3:10-14 - KJV](https://bible-api.com/gal+3:10-14?translation=kjv) [[../../galatians|galatians]] [[galatians3]]
+>  <sup> **10** </sup>For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. <sup> **11** </sup>But that no man is justified by the law in the sight of God, it is  evident: for, The just shall live by faith. <sup> **12** </sup>And the law is not of faith: but, The man that doeth them shall live in them. <sup> **13** </sup>Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: <sup> **14** </sup>That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
+ %% #bible #galatians #galatians3 %%
+
+
 
 
 ## Extras

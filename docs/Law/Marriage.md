@@ -75,7 +75,7 @@ He shall not deprive his first wife of *necessaries*, *apparel*, and *companions
  %% #bible #1timothy #1timothy5 %%
 
 <br>
-> [!NOTE]My Comments
+
 
  - [n] If someone *does not* provide for his own, meaning wife, wives, and children, especially those in his own house, then his faith (actions/beliefs) do not align with Yah and he is called even WORSE than an unbeliever. 
  - [n] Given that you read scripture and **KNOW** that this is the wrong thing to do, it is as if you willingly deny the commandments. ➕ 2023-07-22
@@ -86,10 +86,19 @@ He shall not deprive his first wife of *necessaries*, *apparel*, and *companions
  %% #bible #1corinthians #1corinthians7 %%
 
 <br>
-> [!NOTE] My Comments
 
 ### Divorce
 
 > [!Bible] [Deuteronomy 22:19 - KJV](https://bible-api.com/deu+22:19?translation=kjv) [[deuteronomy]] [[deuteronomy22]]
 >  <sup> **19** </sup>And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
+ %% #bible #deuteronomy #deuteronomy22 %%
+
+### Slander
+
+A man who *slanders* his wife with accusations of adultery **must**
+- remain married to his wife.
+- not divorce her
+
+> [!Bible] [Deuteronomy 22:19 - KJV](https://bible-api.com/deu+22:19?translation=kjv) [[deuteronomy]] [[deuteronomy22]]
+>  <sup> **19** </sup>And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; **he may not put her away all his days.**
  %% #bible #deuteronomy #deuteronomy22 %%
