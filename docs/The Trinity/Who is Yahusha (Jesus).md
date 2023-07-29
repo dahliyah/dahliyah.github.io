@@ -115,7 +115,7 @@ Google states that the term "engendered" is no longer commonly used and refers t
 >  <sup> **6** </sup>As he saith also in another place, Thou art a priest for ever after the order of Melchisedec. <sup> **7** </sup>Who in the days of his flesh, *when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death*, and was heard in that he feared; <sup> **8** </sup>Though he were a Son, **yet learned he obedience by the things which he suffered**; <sup> **9** </sup>And **being made perfect, he became the author of eternal salvation** unto all them that obey him; <sup> **10** </sup>Called of God an high priest after the order of Melchisedec.
  %% #bible #hebrews #hebrews5 %%
 
-Two types of death exist - earthly death and spiritual death. - [[Two Deaths]]
+Two types of death exist - earthly death and spiritual death. - [[../../Two Deaths|Two Deaths]]
 
 > [!Bible] [Psalms 49:14-15 - KJV](https://bible-api.com/psa+49:14-15?translation=kjv) [[psalms]] [[psalms49]]
 >  <sup> **14** </sup>Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling. <sup> **15** </sup>But God will redeem my soul from the power of the grave: for he shall receive me. Selah.
