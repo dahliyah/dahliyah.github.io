@@ -30,7 +30,7 @@ verses: null
 You were supposed to have bought everything you needed to celebrate the sabbath. Have everything in your dwelling so as not to have to go out and work to get or purchase things from outside the home so that you may rest from work.
 
 
-> [!Bible] [[../../../Chapter 50|Jubilees 50:9-10]] [[jubilees]] [[jubilees50]]
+> [!Bible] [[../../../Chapter 50|Jubilees 50:9-10]] [[../../../jubilees|jubilees]] [[jubilees50]]
 >  <sup> **9** </sup> Ye shall do *no work* whatever on the Sabbath day save what ye have prepared for yourselves on the sixth day, so as to eat, and drink, and rest, and keep Sabbath from all work on that day, and to bless the Lord your God, who has given you a day of festival and a holy day: and a day of the holy kingdom for all Israel is this day among their days for ever. <sup>**10**</sup> For great is the honour which the Lord has given to Israel that they should eat and drink and be satisfied on this festival day, and rest thereon from all labour which belongs to the labour of the children of men save burning frankincense and bringing oblations and sacrifices before the Lord for days and for Sabbaths.
  %% #bible #jubilees #jubilees50 %%
 
