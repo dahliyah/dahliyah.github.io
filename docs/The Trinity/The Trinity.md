@@ -1,34 +1,6 @@
 ---
-title: null
-tags:
-  - the trinity
-  - trinity
-  - bible
-  - john
-  - john5
-  - exodus
-  - exodus7
-  - john1
-  - G166
-  - H2305
-  - john2
-  - john10
-  - 1timothy
-  - 1timothy2
-  - john8
-  - isaiah
-  - isaiah35
-  - matthew
-  - matthew11
-  - philippians
-  - philippians2
-  - matthew19
-  - titus
-  - titus2
-  - the
+tags: the trinity, trinity
 share: true
-hide:
-  - toc
 comments: true
 ---
 
@@ -36,8 +8,18 @@ comments: true
 
 
 - Usually, people accuse others of [[Judaizing]] which they believe means that you are wrong for telling people that you must follow the commandments of Yahuah.
+- It's not scripture, it's philosophy
+- Trinitarians have a predisposed bias - the belief that god and angels are not made of the same substance.
+
+#### Terms
+**co-substantial** - of the same substance.
+**co-equal** - equal with one another; having the same rank or importance.
+**co-eternal** - equally eternal; existing with something else eternally.
 
 ## The Father
+
+God cannot mediate between God and man.
+*doesn't make sense..*
 
 > [!Bible] [John 5:37 - KJV](https://bible-api.com/john+5:37?translation=kjv) [[john]] [[john5]]
 >  <sup> **37** </sup>And the Father himself, which hath sent me, hath borne witness of me. *Ye have neither heard his voice **at any time**, nor seen his shape.*
@@ -89,15 +71,18 @@ In the beginning was Yahusha, and Yahusha was with Elohiym, and Yahusha was eloh
 
 ### Power is from his father
 
-- John 10:18 -19
+- Yahusha does whatever the father allows him to do
 
-> [!Bible]- [John 10:18-19 - KJV](https://bible-api.com/john+10:18-19?translation=kjv)
->  <sup> 18 </sup>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father. <sup> 19 </sup>There was a division therefore again among the Jews for these sayings.
+> [!Bible] [John 10:18-19 - KJV](https://bible-api.com/john+10:18-19?translation=kjv)
+>  <sup> 18 </sup>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received **of my Father**. <sup> 19 </sup>There was a *division* therefore again *among the Jews* for these sayings.
 > 
   [John 10:18-19 - KJV](https://bible-api.com/john+10:18-19?translation=kjv) %% #bible #john #john10 %%
 
 "this commandment I have received **of my Father**"
 
+### Did Yahusha break the laws of Yah?
+
+Yahusha broke the man-made pharaseetical laws of the "sabbath" not god's law.
 
 ## Miracles
 
@@ -161,4 +146,4 @@ Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
 >  <sup> **13** </sup>Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
  %% #bible #titus #titus2 %%
 
-- [r] Trinity Verse: Titus 2:13 🔺 ➕ 2023-07-25
+- [i] Trinity Verse: Titus 2:13 🔺 ➕ 2023-07-25
