@@ -29,7 +29,9 @@ From a historical perspective, the New Age phenomenon is most associated with th
 
 
 
+## Tasks
 
+- [ ] Research [[New Age vs. Scripture]]
 
 
 

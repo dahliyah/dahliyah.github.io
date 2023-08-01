@@ -126,3 +126,10 @@ Two types of death exist - earthly death and spiritual death. - [[../../Two Deat
 
 
 ### His Walk
+
+
+## He has a horse
+
+Yahusha has a horse. Confirmed by a kingdom in context video and also the book that we read yesterday, (**Heaven is for Real** by *Todd Burpo*) followed by the video we saw about the kid who went to heaven and saw that Yahusha had a horse. 
+
+- [ ] Research: Yahusha and his horse [[Yahusha's Horse]]

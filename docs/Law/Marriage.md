@@ -21,6 +21,11 @@ tags:
 ---
 
 
+- Yahuah's model is to have ONE wife.
+
+
+
+
 ## “Chained” Women, or Agunot 
 
 *Agunot* are women trapped in marriages because they cannot receive a rabbinic divorce. It's due to their husbands or their husband's male next of kin being unable or unwilling to provide one. The term "*agunot*" comes from the Hebrew word for "<span style='color:#fa8231'>anchor</span>."
