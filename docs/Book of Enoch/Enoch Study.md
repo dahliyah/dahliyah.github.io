@@ -13,9 +13,11 @@ tags:
 *Date Created*: `$= dv.el('span', dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT))` || **Date Modified**: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATETIME_SHORT))`
 <hr>
 
+## Book
+
+[[../../1-enoch|1 Enoch]]
+
 ## Notes
-
-
 
 
 #### Chapter 3 Verse 5
@@ -82,7 +84,7 @@ chapter 55
  30:17
  ```
 
-- [ ] what is the [[Head of Days]]?
+- [ ] what is the [[../../Head of Days|Head of Days]]?
 
 ```timestamp 
  36:43
