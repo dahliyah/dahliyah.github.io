@@ -6,7 +6,7 @@ tags:
   - commandment
   - Bible
   - Biblical
-  - Law
+  - law
   - Law of Moses
   - list
   - Maimonides
@@ -15,6 +15,7 @@ tags:
   - itemization
   - Rambam
   - "613"
+  - Law
   - of
   - Moses
 source: https://www.the613commandments.com/The-List-of-the-613-Commandments.html
