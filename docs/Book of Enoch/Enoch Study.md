@@ -10,7 +10,7 @@ tags:
 
 # Book of Enoch
 
-*Date Created*: `$= dv.el('span', dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT))` || **Date Modified**: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATETIME_SHORT))`
+*Date Created*: <span><span><p>8/13/2023, 3:11 PM</p></span></span> || **Date Modified**: <span><span><p>7/30/2023, 11:54 PM</p></span></span>
 <hr>
 
 ## Book
