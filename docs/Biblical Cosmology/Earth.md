@@ -14,9 +14,9 @@ tags:
   - genesis7
   - 2peter
   - 2peter2
-  - tartaroo
   - G5020
-  - blb
+  - tartaroo
+  - H7585
 ---
 
 
@@ -67,10 +67,33 @@ Isa. 40:22: “It is he that sitteth upon the circle of the earth, and the inhab
 
 
 
-## Hell / [[../../Sheol|Sheol]]
+## Hell
+
+
+### Gehenna
+
+![[./Pasted image 20230802215826.png|Pasted image 20230802215826.png]]
 
 > [!Bible] [2 Peter 2:4 - KJV](https://bible-api.com/2peter+2:4?translation=kjv) [[2peter]] [[2peter2]]
->  <sup> **4** </sup>For if God spared not the angels that sinned, but cast them  down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
+>  <sup> **4** </sup>For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
  %% #bible #2peter #2peter2 %%
 
-[G5020 - Tararoo](https://www.blueletterbible.org/lexicon/g5020/kjv/tr/0-1/) #tartaroo #G5020 #blb 
+
+| Words  | Strong's # | Transliteration | Pronunciation | Definition |
+|:-------|:-----------|:----------------|:--------------|:------------------------------------------------------------------------------------|
+| "*hell*" | #G5020  | tartaroō    | tar-tar-o'-o  |  (the deepest abyss of Hades); to incarcerate in *eternal torment*:—~~cast down to hell.~~ | 
+
+#tartaroo
+### Sheol
+— [[../../Sheol|Sheol]]
+
+| Words  | Strong's # | Transliteration | Pronunciation | Definition                                                                                                              |
+|:-------|:-----------|:----------------|:--------------|:------------------------------------------------------------------------------------------------------------------------|
+| "hell" | #H7585     | šᵊ'ôl           | sheh-ole'     | hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates:—grave, hell, pit. |  
+
+- List of verses that use this word
+
+
+
+
+- [ ] Study Words: Hades, Sheol, Hell, Gehenna, Tartaro ➕ 2023-08-02
