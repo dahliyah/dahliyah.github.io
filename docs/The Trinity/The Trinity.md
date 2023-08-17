@@ -7,7 +7,7 @@ comments: true
 # The Trinity
 
 
-- Usually, people accuse others of [[Judaizing]] which they believe means that you are wrong for telling people that you must follow the commandments of Yahuah.
+- Usually, people accuse others of [[Judaizing]] which they believe means that you are wrong for following the commandments of Yahuah.
 - It's not scripture, it's philosophy
 - Trinitarians have a predisposed bias - the belief that god and angels are not made of the same substance.
 
@@ -25,7 +25,10 @@ God cannot mediate between God and man.
 >  <sup> **37** </sup>And the Father himself, which hath sent me, hath borne witness of me. *Ye have neither heard his voice **at any time**, nor seen his shape.*
  %% #bible #john #john5 %%
 
-
+#### This is the Father speaking
+> [!Bible] [Revelation 22:13 - KJV](https://bible-api.com/Revelation+22:13?translation=kjv) [[Revelation]] [[Revelation22]]
+>  <sup> **13** </sup>I am Alpha and Omega, the beginning and the end, the first and the last.
+ %% #bible #Revelation #Revelation22 %%
 
 ### Yahuah explains the agency
 
