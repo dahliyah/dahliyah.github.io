@@ -16,7 +16,7 @@ banner: Wikis/IMAGES/Banners/gavel-g7c00c01cb_1280.jpg
 - [n] The [[./The Law Diagram.canvas|10 Commandments]] tell us "*what*" commands there are, but the entirety of torah tell us "**how**". - ➕ 2023-07-31 %%Wrote this as a reply to a facebook post 2023-07-31 %%
 
 > The law was given before Moses received them on Mount Sinai. - Read [[./Eternal Torah|Eternal Torah]]!
-We are not under the new covenant yet.
+We are <span style='color:#eb3b5a'>not</span> under the new covenant yet.
 
 ### What is Law?
 
@@ -33,7 +33,7 @@ definition:: law, direction, instruction %%
 - [!] Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
 
 > [!Bible] [Ecclesiastes 12:13-14 - KJV](https://bible-api.com/ecc+12:13-14?translation=kjv) 
->  <sup> 13 </sup>Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. <sup> 14 </sup>For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
+>  <sup> 13 </sup>Let us hear the conclusion of the whole matter: Fear God, and **keep his commandments**: for **this** is the **whole duty of man**. <sup> 14 </sup>For God shall bring *every work* into **judgment**, with *every secret thing*, whether it be good, or whether it be evil.
 > %% #bible #ecclesiastes #ecclesiastes12 %%
 
 ## If we love him.. we will...
@@ -72,7 +72,6 @@ The law *of* Moses is not **FROM** Moses but **FROM** <mark style='background:#8
 
 ## Paul
 
-<br>
 ### Works of the Law
 
 #### Romans 3:20

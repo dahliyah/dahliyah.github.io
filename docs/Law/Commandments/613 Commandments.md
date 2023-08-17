@@ -27,11 +27,11 @@ sticker: lucide//gavel
 
 # The 613 Commandments
 
-| Topic                                                                                                           | Note                                          | Created                  | Verses         |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------ | -------------- |
-| sabbath                                                                                                         | [[./Sabbath\|Sabbath]] | 8:01 PM - July 15, 2023  | \-             |
-| circumcision                                                                                                    | [[../../../Circumcision\|Circumcision]]    | 12:47 AM - June 19, 2023 | Leviticus 12:3 |
-| <ul><li><ul><li>Spirit</li><li>Ruach Ha'Qodesh</li><li>Holy Spirit</li></ul></li><li>Types of Spirits</li></ul> | [[../../../Spirit\|Spirit]]     | 5:37 PM - June 18, 2023  | \-             |
+| Topic                                                                                                           | Note                                          | Created                   | Verses         |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------- | -------------- |
+| sabbath                                                                                                         | [[./Sabbath\|Sabbath]] | 3:12 PM - August 13, 2023 | \-             |
+| <ul><li><ul><li>Spirit</li><li>Ruach Ha'Qodesh</li><li>Holy Spirit</li></ul></li><li>Types of Spirits</li></ul> | [[../../../Spirit\|Spirit]]     | 3:11 PM - August 13, 2023 | \-             |
+| circumcision                                                                                                    | [[../../../Circumcision\|Circumcision]]    | 3:11 PM - August 13, 2023 | Leviticus 12:3 |
 
 
 

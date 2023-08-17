@@ -13,7 +13,7 @@ tags:
 
 # Bible Canon
 
-*Date Created*: `$= dv.el('span', dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT))` || **Date Modified**: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATETIME_SHORT))`
+*Date Created*: <span><span><p>8/13/2023, 3:11 PM</p></span></span> || **Date Modified**: <span><span><p>7/14/2023, 12:22 PM</p></span></span>
 <hr>
 
 ## What is "**Canon**"?

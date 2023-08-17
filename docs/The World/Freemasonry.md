@@ -9,7 +9,7 @@ tags:
 
 # Freemasonry
 
-*Date Created*: `$= dv.el('span', dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT))` || **Date Modified**: `$= dv.el('span', dv.current().file.mtime.toLocaleString(DateTime.DATETIME_SHORT))`
+*Date Created*: <span><span><p>8/13/2023, 3:11 PM</p></span></span> || **Date Modified**: <span><span><p>7/15/2023, 12:20 AM</p></span></span>
 <hr>
 
 - Freemasons one must believe in a god, that is a Supreme Being. It can be most any god. 

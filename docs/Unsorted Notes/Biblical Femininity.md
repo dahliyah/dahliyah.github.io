@@ -33,7 +33,19 @@ share: true
 | <span style='color:#eb3b5a'>array</span>      | #G2441       | himatismos                  | him-at-is-mos'                  | clothing:—apparel (X -led), array, raiment, vesture.                                                                                                                                              |  
 
 
+## shamefacedness
 
+- [1] accordingly, **αἰδ**. is prominently objective in its reference, *having regard to others*; while **αἰσχ**. is subjective, *making reference to oneself and one's actions*. Cf. Schmidt, chapter 140. It is often said that '**αἰδ**. *precedes and prevents the shameful act*, **αἰσχ**. *reflects upon its consequences in the shame it brings with it*' (Cope, Aristotle, rhet. 5, 6, 1). **αἰδ**. is *the nobler word*, **αἰσχ**. *the stronger*; while "**αἰδ**. would *always restrain a good man from an unworthy act*, **αἰσχ**. *would sometimes restrain a bad one.*" Trench, §§ 19, 20.]
+<br>
+
+- having regard to others
+- making reference to oneself and one's actions
+- precedes and prevents the shameful act
+- reflects upon its consequences in the shame it brings with it
+- the nobler word
+- the stronger
+- always restrain a good man from an unworthy act
+- would sometimes restrain a bad one
 ### Related Notes
 
 - [[../Law/Marriage|Marriage]]
