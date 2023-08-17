@@ -2,6 +2,8 @@
 share: true
 tags:
   - bible
+  - genesis
+  - genesis8
   - exodus
   - exodus3
   - acts
@@ -15,6 +17,11 @@ tags:
 
 
 ### Laws were given before Mount Sinai
+> [!Bible] [Genesis 8:20 - KJV](https://bible-api.com/gen+8:20?translation=kjv) [[../../Genesis|genesis]] [[genesis8]]
+>  <sup> **20** </sup>And Noah **builded an altar** unto the LORD; and took of every *clean* beast, and of every *clean* fowl, and **offered burnt offerings on the altar**.
+ %% #bible #genesis #genesis8 %%
+
+
 
 - Exodus 18 
 
