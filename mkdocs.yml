@@ -152,7 +152,6 @@ plugins:
     - obsidian-bridge
     - tags
     - include-markdown
-    - search
     - autorefs
     - table-reader
     - search
