@@ -1,5 +1,34 @@
 ---
-tags: the trinity, trinity
+tags:
+  - trinity
+  - thetrinity
+  - 3persons
+  - bible
+  - john
+  - john5
+  - 1Corinthians
+  - 1Corinthians8
+  - Revelation
+  - Revelation22
+  - exodus
+  - exodus7
+  - john1
+  - G166
+  - H2305
+  - john2
+  - john10
+  - 1timothy
+  - 1timothy2
+  - john8
+  - matthew
+  - matthew19
+  - titus
+  - titus2
+  - philippians
+  - philippians2
+  - isaiah
+  - isaiah35
+  - matthew11
 share: true
 comments: true
 ---
@@ -7,7 +36,7 @@ comments: true
 # The Trinity
 
 
-- Usually, people accuse others of [[Judaizing]] which they believe means that you are wrong for following the commandments of Yahuah.
+- People often accuse others of [[../../Judaizing|Judaizing]] for following Yahuah's commandments.
 - It's not scripture, it's philosophy
 - Trinitarians have a predisposed bias - the belief that god and angels are not made of the same substance.
 
@@ -24,6 +53,11 @@ God cannot mediate between God and man.
 > [!Bible] [John 5:37 - KJV](https://bible-api.com/john+5:37?translation=kjv) [[john]] [[john5]]
 >  <sup> **37** </sup>And the Father himself, which hath sent me, hath borne witness of me. *Ye have neither heard his voice **at any time**, nor seen his shape.*
  %% #bible #john #john5 %%
+
+
+> [!Bible] [1Corinthians 8:5-6 - NKJV](https://bolls.life/NKJV/46/8/) [[1Corinthians]] [[1Corinthians8]]
+>  <sup> **5** </sup>For even if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords), <sup> **6** </sup>yet for us <i>there</i> <i>is</i> one God, the Father, of whom <i>are</i> all things, and we for Him; and one Lord Jesus Christ, through whom <i>are</i> all things, and through whom we <i>live.</i>
+ %% #bible #1Corinthians #1Corinthians8 %%
 
 #### This is the Father speaking
 > [!Bible] [Revelation 22:13 - KJV](https://bible-api.com/Revelation+22:13?translation=kjv) [[Revelation]] [[Revelation22]]
@@ -102,7 +136,6 @@ Trinitarians hold a distinct interpretation of the term "God""
 - The term "God" possesses a distinct essence.
 -  Trinity is **idolatry**. Three persons = three gods = *God the Father*, *God the Son*, *God the Holy Spirit*.
 
-
 ## Before Abraham was, I AM
 
 > [!Bible] [John 8:58 - KJV](https://bible-api.com/john+8:58?translation=kjv)
@@ -113,25 +146,7 @@ Trinitarians hold a distinct interpretation of the term "God""
 >  <sup> 27 </sup>They understood not that he spake to them of the Father. <sup> 28 </sup>Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things. <sup> 29 </sup>And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
 > %% #bible #john #john8 %%
 
-
-## Isaiah 35:4-6 / Matthew 11:4-6
-
-> [!Bible] [Isaiah 35:4-6 - KJV](https://bible-api.com/isa+35:4-6?translation=kjv) [[isaiah]] [[isaiah35]]
->  <sup> **4** </sup>Say to them that are of a fearful heart, Be strong, fear not: behold, your *God will come with vengeance*, even God with a recompence; *he will come and save you*. <sup> **5** </sup>**Then the eyes of the blind shall be opened**, and the **ears of the deaf shall be unstopped**. <sup> **6** </sup>Then shall the **lame man leap as an hart**, and the **tongue of the dumb sing**: for in the wilderness shall waters break out, and streams in the desert.
- %% #bible #isaiah #isaiah35 %%
-
-
-> [!Bible] [Matthew 11:4-6 - KJV](https://bible-api.com/matt+11:4-6?translation=kjv) [[matthew]] [[matthew11]]
->  <sup> **4** </sup>Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: <sup> **5** </sup>**The blind receive their sight**, and **the lame walk**, the lepers are cleansed, and **the deaf hear**, **the dead are raised up**, and the poor have the gospel preached to them. <sup> **6** </sup>And blessed is he, whosoever shall not be offended in me.
- %% #bible #matthew #matthew11 %%
-
-
-Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
-## 
-
-> [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [[philippians]] [[philippians2]]
->  <sup> **5** </sup>Let this mind be in you, which was also in Christ Jesus: <sup> **6** </sup>Who, being in the form of God, thought it not robbery to be equal with God: <sup> **7** </sup>But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: <sup> **8** </sup>And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
- %% #bible #philippians #philippians2 %%
+*Study for Context*: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
 
 ## Yahuah cannot be tempted
 
@@ -143,10 +158,39 @@ Study for Context: [[Psalms 2]] | [[Isaiah 42]] | [[../../Isaiah 53|Isaiah 53]]
 - [x] Do research on the phrase, "Son of Man" 📅 🛫 2023-07-04 ✅ 2023-07-14
 
 
-## Titus 2:13
+## Most Referenced Verses and Explanations
 
+- [ ] [[https://www.youtube.com/live/gKfUExxo5_c?si=oDMEtV4QYwcteiBD&t=943]] ➕ 2023-08-31 📅 2023-08-31
+
+### Titus 2:13
 > [!Bible] [Titus 2:13 - KJV](https://bible-api.com/titus+2:13?translation=kjv) [[titus]] [[titus2]]
->  <sup> **13** </sup>Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+>  <sup> **13** </sup>Looking for that blessed hope, and the glorious appearing of the great God *and* our Saviour Jesus Christ;
  %% #bible #titus #titus2 %%
 
+> [!thoughts]- Context
+> hjhjgugui
+
+
 - [i] Trinity Verse: Titus 2:13 🔺 ➕ 2023-07-25
+
+---
+### Philippians 2:5-8
+
+> [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [[philippians]] [[philippians2]]
+>  <sup> **5** </sup>Let this mind be in you, which was also in Christ Jesus: <sup> **6** </sup>Who, being in the **form of elohiym**, thought it not robbery to be equal with God: <sup> **7** </sup>But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: <sup> **8** </sup>And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
+ %% #bible #philippians #philippians2 %%
+
+
+---
+
+
+### Isaiah 35:4-6 / Matthew 11:4-6
+
+> [!Bible] [Isaiah 35:4-6 - KJV](https://bible-api.com/isa+35:4-6?translation=kjv) [[isaiah]] [[isaiah35]]
+>  <sup> **4** </sup>Say to them that are of a fearful heart, Be strong, fear not: behold, your *God will come with vengeance*, even God with a recompence; *he will come and save you*. <sup> **5** </sup>**Then the eyes of the blind shall be opened**, and the **ears of the deaf shall be unstopped**. <sup> **6** </sup>Then shall the **lame man leap as an hart**, and the **tongue of the dumb sing**: for in the wilderness shall waters break out, and streams in the desert.
+ %% #bible #isaiah #isaiah35 %%
+
+> [!Bible] [Matthew 11:4-6 - KJV](https://bible-api.com/matt+11:4-6?translation=kjv) [[matthew]] [[matthew11]]
+>  <sup> **4** </sup>Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: <sup> **5** </sup>**The blind receive their sight**, and **the lame walk**, the lepers are cleansed, and **the deaf hear**, **the dead are raised up**, and the poor have the gospel preached to them. <sup> **6** </sup>And blessed is he, whosoever shall not be offended in me.
+ %% #bible #matthew #matthew11 %%
+
