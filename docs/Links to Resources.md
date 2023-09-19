@@ -18,3 +18,5 @@ share: true
 [Liiighthouse](https://liiighthouse.com/) - Sean Griffin's project. video site.
 
 [Flowcharts Syntax | Mermaid](https://mermaid.js.org/syntax/flowchart.html) charts for mkdocs
+
+[613 Commandment](http://the613.info/?fbclid=IwAR05gf4OsKUuUy7I2bVPccKJcwUJvRmN40CxH4-r1AluzZiHsVF5m6MOw-E) - 2 Greatest Commandments Chart connecting to the Laws of YHWH

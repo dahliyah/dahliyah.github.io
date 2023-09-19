@@ -42,6 +42,8 @@ Thoughts: He is saying that we should not transgress the law-*sin*, just because
 
 Free of Sin = Servants of Righteousness
 
+We are servants of righteousness. How is righteousness defined in the bible? God’s commands.
+
 #### What is Righteousness?
 
 ![![Topics/Bodies/Earthly/Scripture/#^Table1]]
@@ -63,10 +65,10 @@ Law in the heart - can not people grow in their understanding of walking in Mess
 
 | Law                       | Verses (Acts)                   |
 |:--------------------------|:--------------------------------|
-| Observed [[../../../../../Feasts|Feasts]]           |              20:6,16, 24:17, 18 |
+| Observed [[../../../../Feasts/Feasts|Feasts]]           |              20:6,16, 24:17, 18 |
 | Made Vows                 |                 18:18, 21:23-26 |
 | Observing [[Fasts]]           |                            27:9 |
-| Observing [[../../../../Law/Commandments/Sabbath|Sabbath]]         | 13:14, 42, 44,16:13, 17:2, 18:4 |
+| Observing [[../../../../Law/Sabbath/Sabbath|Sabbath]]         | 13:14, 42, 44,16:13, 17:2, 18:4 |
 | [[../../../../../Circumcision|Circumcision]]              |                            16:3 |
 | [[../../../../../Worship\|Worshipping]] at the [[Temple]] |            22:17, 24:11, 18, 18 |
 | Keeping [[../../../../Law/The Law\|the Law]]           |        21:24, 22:3, 23:6, 24:14 |  
@@ -98,3 +100,23 @@ So these three sections is Paul meeting people where they are, partaking in the 
 > [!Bible] [Acts 13:38-39 - KJV](https://bible-api.com/act+13:38-39?translation=kjv) [[acts]] [[acts13]]
 >  <sup> **38** </sup>Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins: <sup> **39** </sup>And by him all that believe are <mark style='background:#20bf6b'>justified from all things, from which ye could not be justified by the law of Moses.</mark>
  %% #bible #acts #acts13 %%
+
+
+
+## muslim
+
+paul wrote too many books
+paul told people that no laws
+
+dead sea scrolls deception..
+dead sea scroll uncovered
+
+Paul said he was a liar "1 Corinthians 9:19-22"
+earliest dates of Crucifixion
+7 levels of heaven and hell
+Galatians 13 
+souls can die?: 
+Romans 13
+
+1 Corinthians
+Galatians 3:1

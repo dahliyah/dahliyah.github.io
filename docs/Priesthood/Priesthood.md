@@ -15,7 +15,7 @@ tags:
 
 ## Types of Priesthoods
 
-- [[Levitical Priesthood]]
+- [[../../Levitical Priesthood|Levitical Priesthood]]
 	- 
 - [[../../Melchizedek Priesthood|Melchizedek Priesthood]]
 

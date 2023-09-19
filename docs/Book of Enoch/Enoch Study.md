@@ -10,7 +10,7 @@ tags:
 
 # Book of Enoch
 
-*Date Created*: <span><span><p>8/13/2023, 3:11 PM</p></span></span> || **Date Modified**: <span><span><p>7/30/2023, 11:54 PM</p></span></span>
+*Date Created*: <span><span><p>9/15/2023, 1:47 AM</p></span></span> || **Date Modified**: <span><span><p>8/23/2023, 11:05 PM</p></span></span>
 <hr>
 
 ## Book
@@ -100,3 +100,20 @@ were disquieted with a great disquiet
  45:11
  ```
 BookMark - stopped here
+
+
+
+## Chapter 72
+
+### Law of the Luminaries
+1. Sun - Great Luminary - filled with illuminating and heating fire
+	1. **rising** - *eastern* portals of the heaven
+	2. **setting** - *western* portals of the heaven
+	3. 6 portals in which the sun rises
+	4. 6 portals in which the sun sets
+	5. the **moon** also rises and sets in these portals
+	6. [[Leaders of the Stars]]
+	7. 6 portals-East
+	8. 6 portals-West
+	9. Sun goes down from the heaven and returns through the north in order to reach the East
+2. 
