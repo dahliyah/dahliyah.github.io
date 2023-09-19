@@ -154,7 +154,6 @@ plugins:
     - include-markdown
     - search
     - autorefs
-    - callouts
     - table-reader
     - rss
     - search
