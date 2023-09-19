@@ -30,7 +30,7 @@ transliteration:: tôrâ
 phonetic spelling:: to-raw'
 definition:: law, direction, instruction %%
 
-- [!] Mount Sinai = Renewal of Covenant = [[How do we celebrate it | Shabbu'ot ]]
+- [!] Mount Sinai = Renewal of Covenant = [[../Feasts/Feasts| Shabbu'ot ]]
 
 > [!Bible] [Ecclesiastes 12:13-14 - KJV](https://bible-api.com/ecc+12:13-14?translation=kjv) 
 >  <sup> 13 </sup>Let us hear the conclusion of the whole matter: Fear God, and **keep his commandments**: for **this** is the **whole duty of man**. <sup> 14 </sup>For God shall bring *every work* into **judgment**, with *every secret thing*, whether it be good, or whether it be evil.
@@ -70,6 +70,15 @@ The law *of* Moses is not **FROM** Moses but **FROM** <mark style='background:#8
 
 - [?] Did Mosheh's mother have a husband? ➕ 2023-07-31
 
+Circumcision of the heart is not new to the "new" Testament
+
+> [!Bible] [Deuteronomy 10:16 - NKJV](https://bolls.life/NKJV/5/10/) [[Deuteronomy]] [[Deuteronomy10]]
+>  <sup> **16** </sup>Therefore circumcise the foreskin of your heart, and be stiff-necked no longer.
+ %% #bible #Deuteronomy #Deuteronomy10 %%
+
+Deuteronomy 10:16
+(Brenton)  Therefore ye shall circumcise the hardness of your heart, and ye shall not harden your neck.
+
 ## Paul
 
 ### Works of the Law
@@ -82,14 +91,31 @@ The law *of* Moses is not **FROM** Moses but **FROM** <mark style='background:#8
  
 - [n] "[[../../Works of the Law|Works of the Law]]" are the extra man-made pharisaical laws placed on the Yahudiym. ➕ 2023-07-21
 
-### "The Law is a curse"
+
+
+## Claims
+
+### Acts 10:13
+
+> [!Bible] [Acts 10:15 - KJV](https://bible-api.com/Acts+10:15?translation=kjv) [[Acts]] [[Acts10]]
+>  <sup> **15** </sup>And the voice spake unto him again the second time, What God hath cleansed, that call not thou common.
+ %% #bible #Acts #Acts10 %%
+
+“Peter is being shown that people are not unclean. He had this idea from Judaism.”
+
+- [ ] Study Acts 13 and why it is not saying that pork is clean to eat ➕ 2023-08-19
+### If you do the Law you have to do it perfectly
+We are not under the condemnation of the law because this is the [[The Law#The Law is a curse|curse]] that Yahusha came to destroy. Not that the law is a curse but that being under the condemnation of the law is.
+
+### The Law is a curse
 
 > [!Bible] [Galatians 3:10-14 - KJV](https://bible-api.com/gal+3:10-14?translation=kjv) [[../../galatians|galatians]] [[galatians3]]
 >  <sup> **10** </sup>For as many as are of the [[../../Works of the Law|Works of the Law]] are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. <sup> **11** </sup>But that no man is justified by the law in the sight of God, it is  evident: for, The just shall live by faith. <sup> **12** </sup>And the law is not of faith: but, The man that doeth them shall live in them. <sup> **13** </sup>Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: <sup> **14** </sup>That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
  %% #bible #galatians #galatians3 %%
 
-
-
+> [!Bible] [Romans 4:13-16 - NKJV](https://bolls.life/NKJV/45/4/) [[Romans]] [[Romans4]]
+>  <sup> **13** </sup>For the promise that he would be the heir of the world <i>was</i> not to Abraham or to his seed through the law, but through the righteousness of faith. <sup> **14** </sup>For if those who are of the law <i>are</i> heirs, faith is made void and the promise made of no effect, <sup> **15** </sup>because the law brings about wrath; for where there is no law <i>there</i> <i>is</i> no transgression. <sup> **16** </sup>Therefore <i>it</i> <i>is</i> of faith that <i>it</i> <i>might</i> <i>be</i> according to grace, so that the promise might be sure to all the seed, not only to those who are of the law, but also to those who are of the faith of Abraham, who is the father of us all
+ %% #bible #Romans #Romans4 %%
 
 ## Extras
 
