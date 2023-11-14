@@ -1,0 +1,202 @@
+---
+tags:
+  - trinity
+  - thetrinity
+  - 3persons
+  - bible
+  - john
+  - john5
+  - 1Corinthians
+  - 1Corinthians8
+  - Revelation
+  - Revelation22
+  - exodus
+  - exodus7
+  - john1
+  - John
+  - John20
+  - G166
+  - H2305
+  - john2
+  - john10
+  - 1timothy
+  - 1timothy2
+  - john8
+  - matthew
+  - matthew19
+  - titus
+  - titus2
+  - philippians
+  - philippians2
+  - isaiah
+  - isaiah35
+  - matthew11
+share: true
+comments: true
+last-updated: 2023-10-25T13:35:27-04:00
+---
+
+# The Trinity
+
+
+- People often accuse others of [[../../../../Judaizing|Judaizing]] for following Yahuah's commandments.
+- It's not scripture, it's philosophy
+- Trinitarians have a predisposed bias - the belief that god and angels are not made of the same substance.
+
+> [!bible] [1 Samuel 28:13 - KJV](https://bible-api.com/1 Samuel+28:13?translation=kjv)
+>  <sup> **13** </sup>And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.
+ %% #1 Samuel #1 Samuel28 %%
+
+## The Father
+
+God cannot mediate between God and man.
+*doesn't make sense..*
+
+> [!Bible] [John 5:37 - KJV](https://bible-api.com/john+5:37?translation=kjv) [[../../../../John|john]] [[john5]]
+>  <sup> **37** </sup>And the Father himself, which hath sent me, hath borne witness of me. *Ye have neither heard his voice **at any time**, nor seen his shape.*
+ %% #bible #john #john5 %%
+
+
+> [!Bible] [1Corinthians 8:5-6 - NKJV](https://bolls.life/NKJV/46/8/) [[1Corinthians]] [[1Corinthians8]]
+>  <sup> **5** </sup>For even if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords), <sup> **6** </sup>yet for us <i>there</i> <i>is</i> one God, the Father, of whom <i>are</i> all things, and we for Him; and one Lord Jesus Christ, through whom <i>are</i> all things, and through whom we <i>live.</i>
+ %% #bible #1Corinthians #1Corinthians8 %%
+
+#### This is the Father speaking
+> [!Bible] [Revelation 22:13 - KJV](https://bible-api.com/Revelation+22:13?translation=kjv) [[../../../../Revelation|Revelation]] [[Revelation22]]
+>  <sup> **13** </sup>I am Alpha and Omega, the beginning and the end, the first and the last.
+ %% #bible #Revelation #Revelation22 %%
+
+### Yahuah explains the agency
+
+> [!Bible] [Exodus 7:1 - KJV](https://bible-api.com/exodus+7:1?translation=kjv) [[../../../../Exodus|Exodus]] [[exodus7]]
+>  <sup> **1** </sup>And the LORD said unto *Moses*, See, I have made thee **a god to Pharaoh**: and *Aaron thy brother* shall be **thy prophet**.
+ %% #bible #exodus #exodus7 %%
+
+
+
+## The Son
+
+> [!Bible] [John 1:1 - KJV](https://bible-api.com/john+1:1?translation=kjv) [[../../../../John|john]] [[john1]]
+>  <sup> **1** </sup>In the beginning was the Word, and the Word was with God, and the Word was God.
+ %% #bible #john #john1 %%
+
+In the beginning was Yahusha, and Yahusha was with Elohiym, and Yahusha was elohiym.
+
+> [!Bible] [John 1:2 - KJV](https://bible-api.com/john+1:2?translation=kjv) [[../../../../John|john]] [[john1]]
+>  <sup> **2** </sup>The same was in the beginning with God.
+ %% #bible #john #john1 %%
+
+> **Definition:** defines [one God](https://en.wikipedia.org/wiki/Monotheism "Monotheism") existing in three [coequal](https://en.wiktionary.org/wiki/coequal "wikt:coequal"), [coeternal](https://en.wiktionary.org/wiki/coeternal "wikt:coeternal"), [consubstantial](https://en.wikipedia.org/wiki/Consubstantiality "Consubstantiality") [divine persons](https://en.wikipedia.org/wiki/Prosopon "Prosopon"):<sup id="cite_ref-FOOTNOTEDaley2009323–350_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTEDaley2009323–350-2">[2]</a></sup><sup id="cite_ref-FOOTNOTERamelli2012_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Trinity#cite_note-FOOTNOTERamelli2012-3">[3]</a></sup> [God the Father](https://en.wikipedia.org/wiki/God_the_Father_(Christianity) "God the Father (Christianity)"), [God the Son](https://en.wikipedia.org/wiki/God_the_Son "God the Son") ([Jesus Christ](https://en.wikipedia.org/wiki/Jesus_in_Christianity "Jesus in Christianity")) and [God the Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit_in_Christianity "Holy Spirit in Christianity"), three distinct persons (hypostases) sharing one essence/substance/nature [[../../../../Homoousion|Homoousion]]
+
+
+> [!bible] [John 20:17 - KJV](https://bible-api.com/John+20:17?translation=kjv)
+>  <sup> **17** </sup>Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+ %% #John #John20 %%
+### Begotten 
+
+*eternally begotten* does not make sense.
+
+| Word      | Strong's # | Pronunciation  | Defintion                                                                |
+|:---------:|:-----------------|:---------------|:-------------------------------------------------------------------------|
+| eternally | #G166      | ahee-o'-nee-os | without beginning and end, that which always has been and always will be |
+| begotten  | #H2305     | yaw-lad'       | to bear, bring forth, beget, gender, travail                             |  
+
+
+### Yahusha raising himself
+
+- John 2:19 - Trinitarian - "*I will raise* it up" "temple of his body"
+
+> [!Bible] [John 2:19-21 - KJV](https://bible-api.com/john+2:19-21?translation=kjv) 
+>  <sup> 19 </sup>Jesus answered and said unto them, *Destroy this temple, and in three days I will raise it up* [^1]. <sup> 20 </sup>Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days? <sup> 21 </sup>But he spake of the temple of his body.
+> %% #bible #john #john2 %%
+
+[^1]: He is the Son of Man.
+
+### Power is from his father
+
+- Yahusha does whatever the father allows him to do
+
+> [!Bible] [John 10:18-19 - KJV](https://bible-api.com/john+10:18-19?translation=kjv)
+>  <sup> 18 </sup>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received **of my Father**. <sup> 19 </sup>There was a *division* therefore again *among the Jews* for these sayings.
+> 
+  [John 10:18-19 - KJV](https://bible-api.com/john+10:18-19?translation=kjv) %% #bible #john #john10 %%
+
+"this commandment I have received **of my Father**"
+
+### Did Yahusha break the laws of Yah?
+
+Yahusha broke the man-made pharaseetical laws of the "sabbath" not god's law.
+
+## Miracles
+
+It's worth noting that the other prophets also performed miracles, not just Yahusha.
+
+> [!Bible] [1 Timothy 2:1-7 - KJV](https://bible-api.com/1timothy+2:1-7?translation=kjv) 
+<sup> 1 </sup>I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; <sup> 2 </sup>For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. <sup> 3 </sup>For this is good and acceptable in the sight of God our Saviour; <sup> 4 </sup>Who will have all men to be saved, and to come unto the knowledge of the truth. <sup> 5 </sup>For there is one God, and one mediator between God and men, the man Christ Jesus; <sup> 6 </sup>Who gave himself a ransom for all, to be testified in due time. <sup> 7 </sup>Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+>  %% #bible #1timothy #1timothy2 %%
+
+## "God is Undefinable" ?
+
+Trinitarians hold a distinct interpretation of the term "God""
+
+- The term "God" possesses a distinct essence.
+-  Trinity is **idolatry**. Three persons = three gods = *God the Father*, *God the Son*, *God the Holy Spirit*.
+
+## Before Abraham was, I AM
+
+> [!Bible] [John 8:58 - KJV](https://bible-api.com/john+8:58?translation=kjv)
+>  <sup> **58** </sup>Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+ %% #bible #john #john8 %%
+
+> [!Bible] [John 8:27-29 - KJV](https://bible-api.com/john+8:27-29?translation=kjv) 
+>  <sup> 27 </sup>They understood not that he spake to them of the Father. <sup> 28 </sup>Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things. <sup> 29 </sup>And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
+> %% #bible #john #john8 %%
+
+*Study for Context*: [[../../../../Psalms 2|Psalms 2]] | [[../../../../Isaiah 42|Isaiah 42]] | [[../../../../Isaiah 53|Isaiah 53]]
+
+## Yahuah cannot be tempted
+
+> [!Bible] [Matthew 19:3 - KJV](https://bible-api.com/matt+19:3?translation=kjv) [[../../../../Matthew|matthew]] [[matthew19]]
+>  <sup> **3** </sup>The Pharisees also came unto him, <mark style='background:#8854d0'>tempting him</mark>, and saying unto him, Is it lawful for a man to put away his wife for every cause?
+ %% #bible #matthew #matthew19 %%
+ 
+### Research to be Done
+- [x] Do research on the phrase, "Son of Man" 📅 🛫 2023-07-04 ✅ 2023-07-14
+
+
+## Most Referenced Verses and Explanations
+
+- [ ] [[https://www.youtube.com/live/gKfUExxo5_c?si=oDMEtV4QYwcteiBD&t=943]] ➕ 2023-08-31 📅 2023-08-31
+
+### Titus 2:13
+> [!Bible] [Titus 2:13 - KJV](https://bible-api.com/titus+2:13?translation=kjv) [[../../../../Titus|titus]] [[titus2]]
+>  <sup> **13** </sup>Looking for that blessed hope, and the glorious appearing of the great God *and* our Saviour Jesus Christ;
+ %% #bible #titus #titus2 %%
+
+> [!thoughts]- Context
+> hjhjgugui
+
+
+- [i] Trinity Verse: Titus 2:13 🔺 ➕ 2023-07-25
+
+---
+### Philippians 2:5-8
+
+> [!Bible] [Philippians 2:5-8 - KJV](https://bible-api.com/php+2:5-8?translation=kjv) [[../../../../Philippians|philippians]] [[philippians2]]
+>  <sup> **5** </sup>Let this mind be in you, which was also in Christ Jesus: <sup> **6** </sup>Who, being in the **form of elohiym**, thought it not robbery to be equal with God: <sup> **7** </sup>But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: <sup> **8** </sup>And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
+ %% #bible #philippians #philippians2 %%
+
+
+---
+
+
+### Isaiah 35:4-6 / Matthew 11:4-6
+
+> [!Bible] [Isaiah 35:4-6 - KJV](https://bible-api.com/isa+35:4-6?translation=kjv) [[../../../../Isaiah|isaiah]] [[isaiah35]]
+>  <sup> **4** </sup>Say to them that are of a fearful heart, Be strong, fear not: behold, your *God will come with vengeance*, even God with a recompence; *he will come and save you*. <sup> **5** </sup>**Then the eyes of the blind shall be opened**, and the **ears of the deaf shall be unstopped**. <sup> **6** </sup>Then shall the **lame man leap as an hart**, and the **tongue of the dumb sing**: for in the wilderness shall waters break out, and streams in the desert.
+ %% #bible #isaiah #isaiah35 %%
+
+> [!Bible] [Matthew 11:4-6 - KJV](https://bible-api.com/matt+11:4-6?translation=kjv) [[../../../../Matthew|matthew]] [[matthew11]]
+>  <sup> **4** </sup>Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: <sup> **5** </sup>**The blind receive their sight**, and **the lame walk**, the lepers are cleansed, and **the deaf hear**, **the dead are raised up**, and the poor have the gospel preached to them. <sup> **6** </sup>And blessed is he, whosoever shall not be offended in me.
+ %% #bible #matthew #matthew11 %%
+
