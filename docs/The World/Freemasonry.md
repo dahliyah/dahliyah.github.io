@@ -9,7 +9,7 @@ tags:
 
 # Freemasonry
 
-*Date Created*: <span><span><p>9/15/2023, 1:47 AM</p></span></span> || **Date Modified**: <span><span><p>7/15/2023, 12:20 AM</p></span></span>
+*Date Created*: 9/15/2023, 1:47 AM || **Date Modified**: 10/27/2023, 3:39 PM
 <hr>
 
 - Freemasons one must believe in a god, that is a Supreme Being. It can be most any god. 

@@ -1,11 +1,10 @@
 ---
 share: true
+last-updated: 2023-11-04T22:46:13-04:00
 tags:
   - bible
   - john
   - john3
-  - psalms
-  - psalms110
 ---
 
 ## Was Yahusha created?
@@ -16,7 +15,7 @@ tags:
 
 #### Only Begotten
 
-> [!Bible] [John 3:16 - KJV](https://bible-api.com/john+3:16?translation=kjv) [[john]] [[john3]]
+> [!Bible] [John 3:16 - KJV](https://bible-api.com/john+3:16?translation=kjv) [[../../../John|john]] [[john3]]
 >  <sup> **16** </sup>For God so loved the world, that he gave his *only begotten Son*, that whosoever believeth in him should not perish, but have everlasting life.
  %% #bible #john #john3 %%
 
@@ -34,22 +33,28 @@ tags:
 The Septuagint presents variations from the translation in the *King James Version* (KJV), which was translated from a **different source** ([[../../../Events|Masoretic Text]]).
 - However, it should be noted that the Septuagint is still incomplete as a section in the verse is missing.
 - The screenshot below is from the Blue Letter Bible website. Two Greek words seem to have not been translated and are marked as "Not Available."
+---
 
-I archived the page on Archive.org as a precaution.:
-[Ιώβ (Psalm) 110 (LXX) - τῷ Δαυιδ ψαλμός εἶπεν ὁ](https://web.archive.org/web/20230703072413/https://www.blueletterbible.org/lxx/psa/110/1/t_concl_588003)
+### Psalms 110:3 
 
-Here's a hyperlink to the present webpage.: 
-[Ιώβ (Psalm) 110 (LXX) - τῷ Δαυιδ ψαλμός εἶπεν ὁ](https://www.blueletterbible.org/lxx/psa/110/1/t_concl_588003)
 
+````col
+```col-md
 #### This is how the Brenton Septuagint Reads
 > [!Bible] [Psalms 110:3 - Septuagint](http://qbible.com/brenton-septuagint/psalms/110.html) [[psalms]] [[psalms110]]
 >  <sup> **3** </sup>With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.
  %% #bible #psalms #psalms110 %%
 #### This is the text in Greek
-![[../../The Trinity/Img/Pasted image 20230703031243.png|Pasted image 20230703031243.png]]
+![[Pasted image 20230703031243.png]]
 
+
+
+```
+
+```col-md
 #### These are the two words that are "Not Available"
-![[../../The Trinity/Img/Pasted image 20230703031327.png|Pasted image 20230703031327.png]]
+![[Pasted image 20230703031327.png]]
+
 
 #### This is the verse translated word for word
 
@@ -61,4 +66,33 @@ G4771 - you
 
 Google states that the term "engendered" is no longer commonly used and refers to the act of a father begetting offspring.
 
-![[../../The Trinity/Img/Pasted image 20230703034419.png|Pasted image 20230703034419.png]]
+```
+
+
+```col-md
+![[Pasted image 20230703034419.png]]
+
+```
+
+
+```col-md
+I archived the page on Archive.org as a precaution.:
+[Ιώβ (Psalm) 110 (LXX) - τῷ Δαυιδ ψαλμός εἶπεν ὁ](https://web.archive.org/web/20230703072413/https://www.blueletterbible.org/lxx/psa/110/1/t_concl_588003)
+
+Here's a hyperlink to the present webpage.: 
+[Ιώβ (Psalm) 110 (LXX) - τῷ Δαυιδ ψαλμός εἶπεν ὁ](https://www.blueletterbible.org/lxx/psa/110/1/t_concl_588003)
+
+
+```
+
+
+
+````
+
+
+
+[[../../../Birth of Yahusha|Birth of Yahusha]]
+
+[[Something]]
+
+

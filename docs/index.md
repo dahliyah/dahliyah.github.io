@@ -1,5 +1,6 @@
 ---
 share: true
+last-updated: 2023-10-27T20:55:25-04:00
 ---
 
 # Home
@@ -17,4 +18,4 @@ Shalom, beloved brothers, and sisters! I am excited to share with you my deep di
 
 [Back to SetApart.top](https://setapart.top){ .md-button .md-button--primary }
 [Download Obsidian Vault](https://drive.google.com/file/d/1XzPgEpilzApTyID6AvGtuEteEceCk68s/view?usp=sharing){ .md-button .md-button--primary }
-[Download Notes](index.md#){ .md-button .md-button--primary }
+[Download Notes](index.md){ .md-button .md-button--primary }
