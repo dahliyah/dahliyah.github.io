@@ -33,7 +33,7 @@ Jewish Pharisees at the time removed verses from the Masoretic and took differen
 
 ![[../../../Events|Events]]
 
-## Enoch Mentioned in Scripture - [[../../Book of Enoch/Enoch Study|Enoch Study]]
+## Enoch Mentioned in Scripture - [[../../../Enoch Study|Enoch Study]]
 
 > [!Bible] [Jude 1:14-15 - KJV](https://bible-api.com/jude+1:14-15?translation=kjv) [[../../../Jude|jude]] [[jude1]]
 >  <sup> **14** </sup>And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, <sup> **15** </sup>To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
