@@ -39,13 +39,13 @@ extra:
 nav:
     - Home: index.md
     - Topics:
-        - Biblical Femininity: docs/Topics/Biblical Femininity.md
-        - Works of the Flesh: docs/The World/Work of the Flesh/Work of the Flesh.md
-    - Sheol: docs/Dictionary/H/hell (grave).md
+        - Biblical Femininity: Biblical Femininity.md
+        - Works of the Flesh: Work of the Flesh.md
+    - Sheol: hell (grave).md
     - Calendar:
-        - Feasts: docs/Feasts/Feasts.md
+        - Feasts: Feasts.md
     - Law:
-        - Sabbath: docs/Law/Sabbath/Sabbath.md
+        - Sabbath: Sabbath.md
         - The Law: docs/Law/The Law.md
     - Yeshua/Jesus:
         - Was Yeshua Created: Was Yahusha created?.md
