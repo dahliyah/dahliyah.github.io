@@ -42,7 +42,7 @@ last-updated: 2023-10-16T01:31:48-04:00
 
 # The Law
 
-> Due to the writings of [[../Beings/Bodies/Earthly/Paul|Paul]] and the way they are worded, Christians believe that the word "[[The Law#What is Law?|law]]" is *ALWAYS* referring to the laws in the old testament. Because of this many believe that the laws mentioned in the old testament is a "curse". That following the law was a curse imposed by God and that we are under a blessing now. This is not entirely the case.  
+> Due to the writings of [[../../Paul|Paul]] and the way they are worded, Christians believe that the word "[[The Law#What is Law?|law]]" is *ALWAYS* referring to the laws in the old testament. Because of this many believe that the laws mentioned in the old testament is a "curse". That following the law was a curse imposed by God and that we are under a blessing now. This is not entirely the case.  
 
 - [[../../Do we have to keep the law?|Do we have to keep the law?]]
 ---
