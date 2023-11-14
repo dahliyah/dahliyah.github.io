@@ -30,7 +30,7 @@ last-updated: 2023-10-09T14:36:01-04:00
 
 | Topic                                                                                                           | Note                                          | Created                      | Verses         |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------- | -------------- |
-| sabbath                                                                                                         | [[../Sabbath/Sabbath\|Sabbath]]           | 1:47 AM - September 15, 2023 | \-             |
+| sabbath                                                                                                         | [[../../../Sabbath\|Sabbath]]           | 1:47 AM - September 15, 2023 | \-             |
 | <ul><li><ul><li>Spirit</li><li>Ruach Ha'Qodesh</li><li>Holy Spirit</li></ul></li><li>Types of Spirits</li></ul> | [[../../../Spirit\|Spirit]] | 1:47 AM - September 15, 2023 | \-             |
 | circumcision                                                                                                    | [[../../../Circumcision\|Circumcision]]         | 1:47 AM - September 15, 2023 | Leviticus 12:3 |
 
