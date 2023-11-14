@@ -82,7 +82,6 @@ extra_javascript:
   - javascripts/extra.js
 
 markdown_extensions:
-    - callouts
     - pymdownx.tasklist:
         custom_checkbox: true
     - tables
