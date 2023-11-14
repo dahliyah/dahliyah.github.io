@@ -39,9 +39,7 @@ extra:
 nav:
     - Home: index.md
     - Biblical Cosmology:
-        - Earth: Biblical Cosmology/Earth.md
-        - Firmament: Biblical Cosmology/Firmament.md
-        - NASA: Biblical Cosmology/NASA.md
+        - Sheol: 
     - Calendar:
         - Feasts:
             - How do we celebrate it?: Calendar/Feasts/How do we celebrate it.md
@@ -53,26 +51,12 @@ nav:
         - Priesthood: Law/Priesthood.md
         - Purity Laws: Law/Commandments/Ourselves/Purity Laws.
         - The Law: Law/The Law.md
-    - Canon:
-        - Bible Canon: Canon/Bible Canon.md
-        - Septuagint: Canon/Septuagint Text Family.md
-        - Enoch Study: Book of Enoch/Enoch Study.md
-    - The Trinity:
-        - The Trinity: The Trinity/The Trinity.md
-        - Who is Yahusha (Jesus): The Trinity/Who is Yahusha (Jesus).md
-        - Yahuah, The Father: The Trinity/Yahuah, The Father.md
-    - Bodies:
-        - Living Soul: Bodies/Living Soul.md
-    - The World:
-        - New Age: The World/New Age.md
-        - Dispensationalism: The World/Dispensationalism.md
-        - Works of the Flesh: The World/Work of the Flesh/Work of the Flesh.md
-    - Timelines:
-        - Events: Events/Canon/Septuagint and the Masoretic Text.md
+    - Yeshua/Jesus:
+        - Was Yeshua Created: Was Yahusha created?.md
     - Extras:
-        - Fallacies: Fallacies and Argument Tactics.md
         - Resources: Links to Resources.md
         - Donate: https://cash.app/$dahlialo
+    - KIngdom in Context: https://www.youtube.com/@KingdomInContext
 
 
 extra_css:
@@ -148,7 +132,6 @@ plugins:
     - autolinks
     - rss
     - section-index
-    - pub-obsidian
     - mkdocs-backlinks
     - obsidian-bridge
     - tags
@@ -170,6 +153,7 @@ plugins:
               show_root_heading: true
               show_source: false
               show_signature_annotations: true
+
 
 watch:
     - mkdocs
