@@ -38,11 +38,14 @@ extra:
 
 nav:
     - Home: index.md
-    - Sheol: /Dictionary/H/hell (grave).md
+    - Topics:
+        - Biblical Femininity: docs/Topics/Biblical Femininity.md
+    - Sheol: docs/Dictionary/H/hell (grave).md
     - Calendar:
-        - Feasts: Feasts/Feasts.md
+        - Feasts: docs/Feasts/Feasts.md
     - Law:
-        - Clean and Unclean Foods: Law/Commandments/Ourselves/Clean and Unclean Foods.md
+        - Sabbath: docs/Law/Sabbath/Sabbath.md
+        - The Law: docs/Law/The Law.md
     - Yeshua/Jesus:
         - Was Yeshua Created: Was Yahusha created?.md
     - Extras:
