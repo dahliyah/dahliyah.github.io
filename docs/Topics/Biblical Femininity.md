@@ -194,4 +194,4 @@ last-updated: 2023-11-13T11:40:57-05:00
 #### Related Notes
 
 - [[../../Marriage|Marriage]]
-- [[../Law/Commandments/Ourselves/Purity Laws|Purity Laws]]
+- [[../../Purity Laws|Purity Laws]]
