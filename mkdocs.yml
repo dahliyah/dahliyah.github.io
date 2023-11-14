@@ -128,6 +128,7 @@ plugins:
     - autolinks
     - rss
     - section-index
+    - blog
     - mkdocs-backlinks
     - obsidian-bridge
     - tags

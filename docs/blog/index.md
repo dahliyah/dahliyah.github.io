@@ -1,6 +1,8 @@
 ---
 share: true
 last-updated: 2023-11-14T02:31:59-05:00
+date:
+    created: 2023/11/14
 ---
 
 # Home
