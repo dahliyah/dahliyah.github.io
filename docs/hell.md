@@ -64,9 +64,9 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 ## Verses containing the word "hell"
 - Scripture that is supposed to be *lake of fire* or *gehenna* are in **bold**.
 
-> [!col]
+> [!col] <TR>
 >
->> [!col-md]
+<TD>
 >> - Deuteronomy 32:22
 >> - 2 Samuel 22:6
 >> - Job 11:8
@@ -91,7 +91,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Isaiah 5:14
 >> - Isaiah 14:9
 >> - Isaiah 14:15
->
+> %% TABLE COLUMN END %%
 >
 >> [!col-md]
 >> - Isaiah 28:15
@@ -105,7 +105,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Jonah 2:2
 >> - Habakkuk 2:5
 >> - **Matthew 5:22**
->
+> %% TABLE COLUMN END %%
 >> [!col-md]
 >> - Luke 10:15
 >> - Luke 12:5
@@ -118,7 +118,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Revelations 20:13
 >> - Revelations 20:1>> 4
 >> -
->
+> %% TABLE COLUMN END %%
 >> [!col-md]
 >> - **Matthew 5:29**
 >> - **Matthew 5:30**
@@ -131,8 +131,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - **Mark 9:43**
 >> - **Mark 9:45**
 >> - **Mark 9:47**
->
->
+> %% TABLE COLUMN END %%
 >> [!col-md]
 >> #### "Apocrypha"
 >> - Tobit 13:2
@@ -145,7 +144,13 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - 2 Esdras 2:29
 >> - 2 Esdras 4:8
 >> - 2 Esdras 8:53
->
+> %% TABLE COLUMN END %%
+> %% TABLE ROW END %%
+</TABLE>
+
+
+
+
 
 
 ### List of Verses and What they Should read as..
