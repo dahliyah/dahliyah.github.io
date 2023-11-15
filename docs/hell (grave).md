@@ -18,33 +18,36 @@ share: true
 # hell (grave) (sheh-ole)
 
 
-````col
-```col-md
-### Definition
-hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates:—grave, hell, pit.
 
-```
-
-```col-md
-### Verses
-- Jubilees 10:5-11
-- Hebrews 11:3-4
-
-```
-
-```col-md
-### Other Names for Sheol
-- Place of Rest
-```
-
-```col-md
-### Summarization of Word Study
-It's a **REAL** place!
-```
-
-````
+> [!col]
+>
+>> [!col-md-2]
+>> ### Definition
+>> hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates:—grave, hell, pit.
+>
+>
+>> [!col-md]
+>> ### Verses
+>> - Jubilees 10:5-11
+>> - Hebrews 11:3-4
+>
+>> [!col-md]
+>> ### Other Names for Sheol
+>> - Place of Rest
+>
+>> [!col-md]
+>> ### Summarization of Word Study
+>> It's a **REAL** place!
+>
 
 
+
+
+
+
+
+ghftjyfjyctyjctyjtcyjctkfkft
+>
 
 ## Verses containing the word "hell"
 - Scripture that is supposed to be *sheol* are in **bold**.
@@ -170,12 +173,12 @@ flexGrow=1
 > [!bible] [Hebrews 11:3-4 - NKJV](https://bolls.life/NKJV/58/11/)
 >  <sup> **3** </sup>By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible. <sup> **4** </sup>By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he **being dead still speaks**.
  %% #Hebrews #Hebrews11 %%>
-  [[Hebrews]] [[Hebrews 11]]
+  [[Hebrews|Hebrews]] [[Hebrews 11|Hebrews 11]]
 
 > [!bible] [Revelation 6:9-11 - NKJV](https://bolls.life/NKJV/66/6/)
 >  <sup> **9** </sup>When He opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony which they held. <sup> **10** </sup>And **they cried with a loud voice**, saying, “How long, O Lord, holy and true, until You judge and avenge our blood on those who dwell on the earth?” <sup> **11** </sup>Then *a white robe* was given to each of them; and it was said to them that they should rest a little while longer, until both <i>the</i> <i>number</i> <i>of</i> their fellow servants and their brethren, who would be killed as they <i>were,</i> was completed.
  %% #Revelation #Revelation6 %%>
-  [[Revelation]] [[Revelation 6]]
+  [[Revelation|Revelation]] [[Revelation 6|Revelation 6]]
 ```
 
 
@@ -183,7 +186,7 @@ flexGrow=1
 flexGrow=1
 ===
 
-> [!important] Facts
+> [!notitle] Facts
 > #### Two sides of Sheol
 > - Righteous Side
 > - Wicked Side
@@ -209,11 +212,3 @@ flexGrow=1
 
 ### List of Verses that use this word
 - Genesis 37:35 (grave)
-
-
-
-
-
-
-
-
