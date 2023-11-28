@@ -25,7 +25,7 @@ study4:
 
 
 
-> [!col]
+
 >> [!col-md-1]
 >>> [!notitle]
 >>> ### Biblical Femininity
@@ -50,24 +50,24 @@ study4:
 >>> [!notitle]
 >>> <center>trait of behaving in ways considered typical for women in accordance with the Bible or the torah of Yahuah.</center>
 >>
->>> [!col-md]
+>
 >>> ### Passages that speak on Femininity or Wifehood
 >>> 
->>>> [!col]
+>>>
 >>>>
->>>>> [!col-md]
+>>>
 >>>>> - Genesis 3:16
 >>>>> - Isaiah 66:13
 >>>>> - Titus 2:3–5
 >>>>> - Ephesians 5:33
 >>>>> - 1 Peter 3:1-2
 >>>>
->>>>> [!col-md]
+>>>
 >>>>> - Esther
 >>>>> - Psalm 45:10
 >>>>> - Psalm 45:11
 >>>>
->>>>> [!col-md]
+>>>
 >>>>> - <font color="#2DC26B">**Proverbs 14:1**</font>
 >>>>> - <font color="#2DC26B">**Proverbs 19:13**</font>
 >>>>> - <font color="#2DC26B">**Proverbs 21:19**</font>
@@ -75,7 +75,7 @@ study4:
 >>>>> - Proverbs 27:15-16
 >>>>> - Proverbs 31
 >>>>
->>>>> [!col-md]
+>>>
 >>>>> - Sirach 9:1–9
 >>>>> - Sirach 23:22–27
 >>>>> - Sirach 25:13–26
@@ -90,8 +90,8 @@ study4:
 >
  
 
-> [!col]
->> [!col-md]
+
+
 >>> [!info] #### Hubands
 >>> ###### Opposite of "[brawling](../brawling.md)" in [Proverbs 25:24](Biblical%20Femininity.md#proverbs2529)
 >>> - peaceable
@@ -99,7 +99,7 @@ study4:
 >>> - be cheerful, no unrighteous or selfish anger.
 >>> build the house **up**, **do not** tear it down
 >
->> [!col-md]
+
 >>> [!abstract] #### With Children
 >>> ###### 
 >>> -
@@ -107,7 +107,7 @@ study4:
 >>> -
 >>> -
 >
->> [!col-md]
+
 >>> [!cite] #### With Friends
 >>> ###### 
 >>> -
@@ -121,7 +121,7 @@ study4:
 
 
 ### Verses
-> [!col]
+
 >
 >> [!col-md-1]
 >>> [!summary] [Judith 2:2](../judith.md#2-2)

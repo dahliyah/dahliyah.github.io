@@ -39,13 +39,13 @@ share: true
 # hell (lake of fire) (gheh'-en-nah)
 
 
-> [!col]
+
 >
 >> [!col-md-2]
 >> ### Definition
 > valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, used (figuratively) as a name for the place (or state) of everlasting punishment:—hell.
 >
->> [!col-md]
+
 >> ### Important Facts or Questions
 >> - hell = valley of Hinnom  ?
 >> -
@@ -53,7 +53,7 @@ share: true
 >> -
 >> -
 >
->> [!col-md]
+
 >> ### Summarization of Word Study
 >
 
@@ -61,8 +61,8 @@ share: true
 ## Verses containing the word "hell"
 - Scripture that is supposed to be *lake of fire* or *gehenna* are in **bold**.
 
-> [!col]
->> [!col-md]
+
+
 >> - Deuteronomy 32:22
 >> - 2 Samuel 22:6
 >> - Job 11:8
@@ -74,7 +74,7 @@ share: true
 >> - Psalms 86:13
 >> - Psalms 116:3
 >
->> [!col-md]
+
 >> - Psalms 139:8
 >> - Proverbs 5:5
 >> - Proverbs 7:27
@@ -87,7 +87,7 @@ share: true
 >> - Isaiah 14:9
 >> - Isaiah 14:15
 >
->> [!col-md]
+
 >> - Isaiah 28:15
 >> - Isaiah 28:18
 >> - Isaiah 57:9
@@ -100,7 +100,7 @@ share: true
 >> - Habakkuk 2:5
 >> - **Matthew 5:22**
 >
->> [!col-md]
+
 >> - Luke 10:15
 >> - Luke 12:5
 >> - Luke 16:23
@@ -113,7 +113,7 @@ share: true
 >> - Revelations 20:1>> 4
 >> -
 >
->> [!col-md]
+
 >> - **Matthew 5:29**
 >> - **Matthew 5:30**
 >> - **Matthew 10:28**
@@ -126,7 +126,7 @@ share: true
 >> - **Mark 9:45**
 >> - **Mark 9:47**
 >
->> [!col-md]
+
 >> #### "Apocrypha"
 >> - Tobit 13:2
 >> - Wisdom 16:3

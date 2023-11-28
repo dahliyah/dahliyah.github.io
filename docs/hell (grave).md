@@ -19,23 +19,23 @@ share: true
 
 
 
-> [!col]
+
 >
 >> [!col-md-2]
 >> ### Definition
 >> hades or the world of the dead (as if a subterranean retreat), including its accessories and inmates:—grave, hell, pit.
 >
 >
->> [!col-md]
+
 >> ### Verses
 >> - Jubilees 10:5-11
 >> - Hebrews 11:3-4
 >
->> [!col-md]
+
 >> ### Other Names for Sheol
 >> - Place of Rest
 >
->> [!col-md]
+
 >> ### Summarization of Word Study
 >> It's a **REAL** place!
 >
