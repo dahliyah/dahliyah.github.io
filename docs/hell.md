@@ -38,33 +38,30 @@ share: true
 
 # hell (lake of fire) (gheh'-en-nah)
 
-````col
-```col-md
-### Definition
-valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, used (figuratively) as a name for the place (or state) of everlasting punishment:—hell.
 
-```
+> [!col]
+>
+>> [!col-md-2]
+>> ### Definition
+> valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, used (figuratively) as a name for the place (or state) of everlasting punishment:—hell.
+>
+>> [!col-md]
+>> ### Important Facts or Questions
+>> - hell = valley of Hinnom  ?
+>> -
+>> -
+>> -
+>> -
+>
+>> [!col-md]
+>> ### Summarization of Word Study
+>
 
-```col-md
-### Important Facts or Questions
-- hell = valley of Hinnom  ?
--
--
--
--
-
-```
-
-```col-md
-### Summarization of Word Study
-```
-
-````
 
 ## Verses containing the word "hell"
 - Scripture that is supposed to be *lake of fire* or *gehenna* are in **bold**.
 
-> [!col] %% TABLE ROW %%
+> [!col]
 >> [!col-md]
 >> - Deuteronomy 32:22
 >> - 2 Samuel 22:6
@@ -76,7 +73,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Psalms 55:15
 >> - Psalms 86:13
 >> - Psalms 116:3
-> %% TABLE COLUMN END %%
+>
 >> [!col-md]
 >> - Psalms 139:8
 >> - Proverbs 5:5
@@ -89,7 +86,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Isaiah 5:14
 >> - Isaiah 14:9
 >> - Isaiah 14:15
-> %% TABLE COLUMN END %%
+>
 >> [!col-md]
 >> - Isaiah 28:15
 >> - Isaiah 28:18
@@ -102,7 +99,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Jonah 2:2
 >> - Habakkuk 2:5
 >> - **Matthew 5:22**
-> %% TABLE COLUMN END %%
+>
 >> [!col-md]
 >> - Luke 10:15
 >> - Luke 12:5
@@ -115,7 +112,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - Revelations 20:13
 >> - Revelations 20:1>> 4
 >> -
-> %% TABLE COLUMN END %%
+>
 >> [!col-md]
 >> - **Matthew 5:29**
 >> - **Matthew 5:30**
@@ -128,7 +125,7 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - **Mark 9:43**
 >> - **Mark 9:45**
 >> - **Mark 9:47**
-> %% TABLE COLUMN END %%
+>
 >> [!col-md]
 >> #### "Apocrypha"
 >> - Tobit 13:2
@@ -141,9 +138,9 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 >> - 2 Esdras 2:29
 >> - 2 Esdras 4:8
 >> - 2 Esdras 8:53
-> %% TABLE COLUMN END %%
-> %% TABLE ROW END %%
-%% TABLE END %%
+>
+>
+
 
 
 
@@ -156,8 +153,8 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 > <span style='color:#f7b731'>Not Sure</span> | <span style='color:#20bf6b'>Sure</span>
 
 
-| Reference     | Verse                                                                                                                                                                                                         | Should read....                                                                                                                                                                                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Reference                                        | Verse                                                                                                                                                                                                         | Should read....                                                                                                                                                                                                    |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span style='color:#f7b731'>Matthew 5:22</span>  | But I say to you that anyone who is angry with a brother will be subjected to judgment. And whoever insults a brother will be brought before the council, and whoever says ‘Fool’ will be sent to fiery hell. | But I say to you that anyone who is angry with a brother will be subjected to judgment. And whoever insults a brother will be brought before the council, and whoever says ‘Fool’ will be sent to Gehenna of Fire. |
 | <span style='color:#20bf6b'>Matthew 18:9</span>  | And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.                              | And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of Fire.                         |
 | <span style='color:#20bf6b'>Mark 9:45</span>     | And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:                                | And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into Gehenna, into the fire that never shall be quenched:                                  |
@@ -236,35 +233,35 @@ valley of (the son of) Hinnom; ge-henna (or Ge-Hinnom), a valley of Jerusalem, u
 
 - Possible Context: Revelation 20:11-13 - death is the dead that were in hades (a.k.a) sheol. and hades is sheol.
 
-|  Words  |  Strong's #  |  Transliteration  |  Pronunciation  |  Definition                                                                                                     |
-|:--------|:-------------|:------------------|:----------------|:----------------------------------------------------------------------------------------------------------------|
-|  death  |  #G2288      |  thanatos         |  than'-at-os    |  from G2348; (properly, an adjective used as a noun) death (literally or figuratively):—X deadly, (be…) death.  |
-| hades   | #G86         | adēs              | hah'-dace       | G1492; properly, unseen, i.e. "Hades" or the place (state) of departed souls:—grave, hell.                      |
+| Words | Strong's # | Transliteration | Pronunciation | Definition                                                                                                    |
+|:------|:-----------|:----------------|:--------------|:--------------------------------------------------------------------------------------------------------------|
+| death | #G2288     | thanatos        | than'-at-os   | from G2348; (properly, an adjective used as a noun) death (literally or figuratively):—X deadly, (be…) death. |
+| hades | #G86       | adēs            | hah'-dace     | G1492; properly, unseen, i.e. "Hades" or the place (state) of departed souls:—grave, hell.                    |
 
 
 ---
 
 
-> [!Bible] [2 Peter 2:4 - KJV](https://bible-api.com/2peter+2:4?translation=kjv) [[2peter|2peter]] [[2peter2|2peter2]]
+> [!Bible] [2 Peter 2:4 - KJV](https://bible-api.com/2peter+2:4?translation=kjv) [2peter](2peter.md) [2peter2](2peter2.md)
 >  <sup> **4** </sup>For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;
  %% #bible #2peter #2peter2 %%
 
 
-| Words  | Strong's # | Transliteration | Pronunciation | Definition |
-|:-------|:-----------|:----------------|:--------------|:------------------------------------------------------------------------------------|
-| "*hell*" | #G5020  | tartaroō    | tar-tar-o'-o  |  (the deepest abyss of Hades); to incarcerate in *eternal torment*:—~~cast down to hell.~~ |
+| Words    | Strong's # | Transliteration | Pronunciation | Definition                                                                                |
+|:---------|:-----------|:----------------|:--------------|:------------------------------------------------------------------------------------------|
+| "*hell*" | #G5020     | tartaroō        | tar-tar-o'-o  | (the deepest abyss of Hades); to incarcerate in *eternal torment*:—~~cast down to hell.~~ |
 
 #tartaroo
 
 
-The other word translated as "hell" is [[./hell (grave)|sheol]].
+The other word translated as "hell" is [sheol](./hell%20(grave).md).
 
 
 
 # Claims
 
 #### “The Soul cannot die.”
-> [!Bible] [Matthew 10:28 - KJV](https://bible-api.com/Matthew+10:28?translation=kjv) [[../Matthew|Matthew]] [[Matthew10|Matthew10]]
+> [!Bible] [Matthew 10:28 - KJV](https://bible-api.com/Matthew+10:28?translation=kjv) [Matthew](Matthew.md) [Matthew10](Matthew10.md)
 >  <sup> **28** </sup>And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
  %% #bible #Matthew #Matthew10 %%
 
@@ -289,21 +286,21 @@ The sorrows of hell compassed me about; the snares of death prevented me;
 > [!bible] [Job 11:8 - KJV](https://bible-api.com/Job+11:8?translation=kjv)
 >  <sup> **8** </sup>It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?
  %% #Job #Job11 %%>
-  [[../Job|Job]] [[../Job 11|Job 11]]
+  [Job](Job.md) [Job 11](Job%2011.md)
 
 #### Job 26:6
 
 > [!bible] [Job 26:6 - KJV](https://bible-api.com/Job+26:6?translation=kjv)
 >  <sup> **6** </sup>Hell is naked before him, and destruction hath no covering.
  %% #Job #Job26 %%>
-  [[../Job|Job]] [[../Job 26|Job 26]]
+  [Job](Job.md) [Job 26](Job%2026.md)
 
 #### Psalms 9:17
 
 > [!bible] [Psalms 9:17 - KJV](https://bible-api.com/Psalm+9:17?translation=kjv)
 >  <sup> **17** </sup>The wicked shall be turned into hell, and all the nations that forget God.
  %% #Psalm #Psalm9 %%>
-  [[Psalm|Psalm]] [[Psalm 9|Psalm 9]]
+  [Psalm](Psalm.md) [Psalm 9](Psalm%209.md)
 
 #### Psalms 16:10
 
@@ -314,21 +311,21 @@ For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One
 > [!bible] [Psalms 18:5 - KJV](https://bible-api.com/Psalm+18:5?translation=kjv)
 >  <sup> **5** </sup>The sorrows of hell compassed me about: the snares of death prevented me.
  %% #Psalm #Psalm18 %%>
-  [[Psalm|Psalm]] [[Psalm 18|Psalm 18]]
+  [Psalm](Psalm.md) [Psalm 18](Psalm%2018.md)
 
 #### Psalms 55:15
 
 > [!bible] [Psalms 55:15 - KJV](https://bible-api.com/Psalm+55:15?translation=kjv)
 >  <sup> **15** </sup>Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.
  %% #Psalm #Psalm55 %%>
-  [[Psalm|Psalm]] [[Psalm 55|Psalm 55]]
+  [Psalm](Psalm.md) [Psalm 55](Psalm%2055.md)
 
 #### Psalms 86:13
 
 > [!bible] [Psalms 86:13 - KJV](https://bible-api.com/Psalm+86:13?translation=kjv)
 >  <sup> **13** </sup>For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell.
  %% #Psalm #Psalm86 %%>
-  [[Psalm|Psalm]] [[Psalm 86|Psalm 86]]
+  [Psalm](Psalm.md) [Psalm 86](Psalm%2086.md)
 
 #### Psalms 116:3
 
