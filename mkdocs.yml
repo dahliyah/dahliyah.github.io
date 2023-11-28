@@ -39,7 +39,6 @@ extra:
 nav:
     - Home: index.md
     - Topics:
-        - Biblical Femininity: Biblical Femininity.md
         - Works of the Flesh: Work of the Flesh.md
     - SHell: 
         - Grave: hell (grave).md
@@ -47,14 +46,13 @@ nav:
     - Calendar:
         - Feasts: Feasts.md
     - Law:
-        - Sabbath: Sabbath.md
-        - The Law: docs/Law/The Law.md
+        - The Law: The Law.md
     - Yeshua/Jesus:
         - Was Yeshua Created: Was Yahusha created?.md
     - Extras:
         - Resources: Links to Resources.md
         - Donate: https://cash.app/$dahlialo
-    - KIngdom in Context: https://www.youtube.com/@KingdomInContext
+    - Kingdom in Context: https://www.youtube.com/@KingdomInContext
 
 
 extra_css:
