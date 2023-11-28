@@ -1,5 +1,5 @@
 ---
-last-updated: 2023-11-13T02:48:07-05:00
+last-updated: 2023-11-21T14:46:43-05:00
 share: true
 tags:
   - commandments
@@ -31,16 +31,16 @@ years and for jubilees and for all seasons of the years,
 flexGrow=2
 ===
 
-|      **Prohibited**                                    |      **Verses**                                                                           |
-|:-------------------------------------------------------|:------------------------------------------------------------------------------------------|
-|     Lying with Wife (or Husband)                       |     Jubilees 50:8,&nbsp;                                                                  |
-|     Buying or Selling                                  |     Jubilees 50:8,&nbsp;                                                                  |
-|     Drawing Water                                      |     Jubilees 50:8,&nbsp;                                                                  |
-|     ~~*Do not leave house?*~~                          |     ~~Exodus 16:29~~                                                                      |
-|    [[What is "work"?\|Work]]                           | Jubilees 50:9                                                                             |
-|    Talking Idly - Nor Speak a Word in Anger            |    Isaiah 58:13                                                                           |
-|    Thy Pleasures                                       |    Isaiah 58:13                                                                           |
-|  Make Plans on This Day                                |  Jubilees 50:8                                                                            |     
+| **Prohibited**                           | **Verses**           |
+|:-----------------------------------------|:---------------------|
+| Lying with Wife (or Husband)             | Jubilees 50:8,&nbsp; |
+| Buying or Selling                        | Jubilees 50:8,&nbsp; |
+| Drawing Water                            | Jubilees 50:8,&nbsp; |
+| ~~*Do not leave house?*~~                | ~~Exodus 16:29~~     |
+| [Work](What%20is%20%22work%22?.md)                | Jubilees 50:9        |
+| Talking Idly - Nor Speak a Word in Anger | Isaiah 58:13         |
+| Thy Pleasures                            | Isaiah 58:13         |
+| Make Plans on This Day                   | Jubilees 50:8        |
 ```
 
 ````
@@ -53,10 +53,12 @@ flexGrow=.7
 ===
 ### Claims
 #### By Judaism
-- [[We cannot cook on the Sabbath]]
+- [We cannot cook on the Sabbath](We%20cannot%20cook%20on%20the%20Sabbath.md)
 
 
 #### By Christianity
+- [Jesus is the sabbath](Jesus%20is%20the%20sabbath.md)
+
 ```
 
 ```col-md
@@ -116,10 +118,10 @@ flexGrow=1.5
 > - sets out on a journey thereon in regard to buying or selling
 > - draweth water thereon which he had not prepared for himself on the sixth day
 > - taketh up any burden to carry it out of his tent or out of his house
-> 
-> 
+>
+>
 > <div align=right> ….. *shall die*</div>
-> 
+>
 
 ```
 
@@ -154,7 +156,7 @@ No this does not say we are not to leave our houses. This was specific to the He
 flexGrow=1.5
 ===
 
-![[We cannot cook on the Sabbath#Exodus 16 19-24]]
+![We cannot cook on the Sabbath > Exodus 16 19-24](We%20cannot%20cook%20on%20the%20Sabbath.md#exodus-16-19-24)
 
 ---
 
@@ -163,10 +165,10 @@ flexGrow=1.5
 
 - Procuring ingredients, going out to purchase food items, going out to buy water or anything that you may need is a form of physical exertion or labor.
 
-> [!bible] [[Apocrypha/jubilees#Chapter 2#2 29|Jubilees 2:29]] - YAH
+> [!bible] [Jubilees 2:29](Apocrypha/jubilees.md#chapter-22-29) - YAH
 >  <sup> **29** </sup>Declare and say to the children of Israel the law of this day that they should keep Sabbath on it, and that they should not forsake it in the error of their hearts; and that it is not lawful to do any work on it which is not suitable, to do their own pleasure on it, and that they should not prepare anything to be eaten or drunk on it, and that it is not lawful to draw water, or bring in or take out through their gates any burden which they had not prepared for themselves on the sixth day in their dwellings.
  %% #Jubilees #Jubilees2 %%
-  [[Jubilees]] [[Jubilees 2]]
+  [Jubilees](Jubilees.md) [Jubilees 2](Jubilees%202.md)
 
 
 
@@ -177,7 +179,7 @@ flexGrow=1.5
 flexGrow=1.5
 ===
 
-![[We cannot cook on the Sabbath#Exodus 35 2-3]]
+![We cannot cook on the Sabbath > Exodus 35 2-3](We%20cannot%20cook%20on%20the%20Sabbath.md#exodus-35-2-3)
 
 ```
 
@@ -187,12 +189,12 @@ flexGrow=1.5
 flexGrow=1
 ===
 
-> [!important] ### <u>Food *prepared* on a Sabbath Day</u>
->#### The only work they are to do is to prepare the food that they will eat.
+> [!important] #### Food *prepared* on a Sabbath Day
+>##### The **only** work they are to do is to prepare the food that they will eat.
 >> [!bible] [Exodus 12:16 - NKJV](https://bolls.life/NKJV/2/12/)
 >>  <sup> **16** </sup>On the first day <i>there</i> <i>shall</i> <i>be</i> a holy convocation, and on the seventh day there shall be a holy convocation for you. *No manner of work* shall be done on them; **but** <i>that</i> which everyone must eat—that only may be prepared by you.
  %% #Exodus #Exodus12 %%
-  [[Exodus]] [[Exodus 12]]
+  [Exodus](Exodus.md) [Exodus 12](Exodus%2012.md)
 >
 
 ```
@@ -202,7 +204,4 @@ flexGrow=1
 
 ## High Shabbats/Sabbaths
 
-
-
-
-
+High Sabbath - <u>special</u> sabbath - when sabbath falls on the **same day** as a *feast day* or *set-apart*(holy) days.
