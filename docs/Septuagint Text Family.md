@@ -2,6 +2,7 @@
 share: true
 ---
 
+
 # Septuagint Text Family (LXX)
 
 
@@ -17,18 +18,18 @@ title: Aquila of Snope
 
 - *Akiva* ben Yosef (Mishnaic Hebrew: עֲקִיבָא בֶּן יוֹסֵף, ʿĂqīḇā ben Yōsēp̄; c. 50 – 28 September 135 CE),[1] also known as Rabbi Akiva (רַבִּי עֲקִיבָא), was a leading Jewish scholar and sage, a tanna of the latter part of the first century and the beginning of the second century. Rabbi Akiva was a leading contributor to the Mishnah and to Midrash halakha. He is *referred to in the Talmud* as Rosh la-Hakhamim "Chief of the Sages". He was executed by the Romans in the aftermath of the Bar Kokhba revolt.
 
-![[../Translations|Translations]]
 
 
-*History of [[./Bible Canon|Bible Canon]]*
+
+*History of [Bible Canon](./Bible%20Canon.md)*
 
 
 ## LXX vs. MT
 
 
 | **VERSE**         | **LXX**                                                                                                                                                                                                                                                                                                                                                                             | **MT/KJV**                                                                                                                                                                                                                                                                        |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Psalms 73:8       |  They have said in their heart, even all their kindred together, Come, **let us abolish the feasts of the Lord from the earth.**       |  They said in their hearts, **Let us destroy them together**: *they have burnt up all the Synagogues of God in the land.*                       |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Psalms 73:8       | They have said in their heart, even all their kindred together, Come, **let us abolish the feasts of the Lord from the earth.**                                                                                                                                                                                                                                                     | They said in their hearts, **Let us destroy them together**: *they have burnt up all the Synagogues of God in the land.*                                                                                                                                                          |
 | Ezekiel 43:14     | from the bottom at the commencement of the hollow part to this great mercy-seat, from beneath was two cubits, and the breadth was a cubit; and from the **little mercy-seat** to the **great mercy-seat**, four cubits, and the breadth was a cubit. &nbsp;                                                                                                                         | And from the bottom [upon] the ground [even] to the lower settle [shall be] two cubits, and the breadth one cubit; and from the _lesser settle_ [even] to the _greater settle_ [shall be] four cubits, and the breadth [one] cubit.                                               |
 | Genesis 1:9       | And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. _And the water which was under the heaven was collected into its places_, and the dry land appeared.                                                                                                                                                 | And Elohim said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: **(OMITTED)** and it was so.                                                                                                                                 |
 | Zechariah 14:5    | And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Uzziah{gr.Ozias} king of Judah{gr.Juda}; and the Lord my God shall come, and all the saints with him.                                                                    | And ye shall flee [to] the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and Yahweh my Elohim shall come, [and] all the saints with thee.   |
@@ -45,5 +46,5 @@ title: Aquila of Snope
 | Deuteronomy 8:3   | And he afflicted thee and straitened thee with hunger, and fed thee with manna, which thy fathers knew not; that he might teach thee that man shall not live by bread alone, but by every word that proceeds out of the mouth of God shall man live.                                                                                                                                | And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live. |
 
 
-![[../Events|Events]]
+
 

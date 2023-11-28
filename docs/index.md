@@ -3,6 +3,7 @@ share: true
 last-updated: 2023-11-14T02:31:59-05:00
 ---
 
+
 # Home
 
 Shalom, dear *brothers* and *sisters*! I am **thrilled** to share with you the results of my extensive scriptural research over the past two years. I have meticulously recorded my observations and designed helpful diagrams, with the aim of providing you with valuable insights. It is my pleasure to present my findings here for your benefit!

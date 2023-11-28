@@ -149,14 +149,14 @@ flexGrow=1.5
 
 ## Description of Sheol
 
-|                                                        |  **Enoch**             |  **Jesus**                |
-|:-------------------------------------------------------|:-----------------------|:--------------------------|
-|    Multiple Compartments                               |     1 Enoch 22:8-13    |    Luke 16:22-23, 26      |
-|    A Light &amp; Water (bright spring of water)        |        1 Enoch 22:9    |    Luke 16:24             |
-|    The Righteous Side (**Abraham's Bosom**)            |     1 Enoch 33:9,12    |    Luke 16:22-23,25-26    |
-|    The Unrighteous Side                                |    1 Enoch 22:11,13    |    Luke 16:22-23,25-26    |
-|    Unrighteous are in Emotional Pain                   |       1 Enoch 22:13    |    Luke 16:23-25,28       |
-|    Unrighteous will NOT be Resurrected                 |      1 Enoch 22:13     |    Luke 16:31             |  
+|                                              | **Enoch**        | **Jesus**           |
+|:---------------------------------------------|:-----------------|:--------------------|
+| Multiple Compartments                        | 1 Enoch 22:8-13  | Luke 16:22-23, 26   |
+| A Light &amp; Water (bright spring of water) | 1 Enoch 22:9     | Luke 16:24          |
+| The Righteous Side (**Abraham's Bosom**)     | 1 Enoch 33:9,12  | Luke 16:22-23,25-26 |
+| The Unrighteous Side                         | 1 Enoch 22:11,13 | Luke 16:22-23,25-26 |
+| Unrighteous are in Emotional Pain            | 1 Enoch 22:13    | Luke 16:23-25,28    |
+| Unrighteous will NOT be Resurrected          | 1 Enoch 22:13    | Luke 16:31          |
 
 ---
 
@@ -173,12 +173,12 @@ flexGrow=1
 > [!bible] [Hebrews 11:3-4 - NKJV](https://bolls.life/NKJV/58/11/)
 >  <sup> **3** </sup>By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible. <sup> **4** </sup>By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he **being dead still speaks**.
  %% #Hebrews #Hebrews11 %%>
-  [[Hebrews|Hebrews]] [[Hebrews 11|Hebrews 11]]
+  [Hebrews](Hebrews.md) [Hebrews 11](Hebrews%2011.md)
 
 > [!bible] [Revelation 6:9-11 - NKJV](https://bolls.life/NKJV/66/6/)
 >  <sup> **9** </sup>When He opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony which they held. <sup> **10** </sup>And **they cried with a loud voice**, saying, “How long, O Lord, holy and true, until You judge and avenge our blood on those who dwell on the earth?” <sup> **11** </sup>Then *a white robe* was given to each of them; and it was said to them that they should rest a little while longer, until both <i>the</i> <i>number</i> <i>of</i> their fellow servants and their brethren, who would be killed as they <i>were,</i> was completed.
  %% #Revelation #Revelation6 %%>
-  [[Revelation|Revelation]] [[Revelation 6|Revelation 6]]
+  [Revelation](Revelation.md) [Revelation 6](Revelation%206.md)
 ```
 
 

@@ -15,22 +15,22 @@ tags:
 
 #### Only Begotten
 
-> [!Bible] [John 3:16 - KJV](https://bible-api.com/john+3:16?translation=kjv) [[../John|john]] [[john3]]
+> [!Bible] [John 3:16 - KJV](https://bible-api.com/john+3:16?translation=kjv) [john](john.md) [john3](john3.md)
 >  <sup> **16** </sup>For God so loved the world, that he gave his *only begotten Son*, that whosoever believeth in him should not perish, but have everlasting life.
  %% #bible #john #john3 %%
 
-|Word|Strong's #|Transliteration|Definition|
-|----|----|----|----|
-|only begotten|G3439|monogenēs|mon-og-en-ace'; from G3441 and G1096; only-born, i.e. sole:—only (begotten, child).|
-|begotten|G1096|ginomai|to become, i.e. *to come into existence*, begin to be, receive being|
+| Word          | Strong's # | Transliteration | Definition                                                                          |
+|---------------|------------|-----------------|-------------------------------------------------------------------------------------|
+| only begotten | G3439      | monogenēs       | mon-og-en-ace'; from G3441 and G1096; only-born, i.e. sole:—only (begotten, child). |
+| begotten      | G1096      | ginomai         | to become, i.e. *to come into existence*, begin to be, receive being                |
 
 #### In the Everlasting
 
-|Word|Strong's #|Transliteration|Definition|
-|----|----|----|----|
-|everlasting||||
+| Word        | Strong's # | Transliteration | Definition |
+|-------------|------------|-----------------|------------|
+| everlasting |            |                 |            |
 
-The Septuagint presents variations from the translation in the *King James Version* (KJV), which was translated from a **different source** ([[../Events|Masoretic Text]]).
+The Septuagint presents variations from the translation in the *King James Version* (KJV), which was translated from a **different source** ([Masoretic Text](../Events.md)).
 - However, it should be noted that the Septuagint is still incomplete as a section in the verse is missing.
 - The screenshot below is from the Blue Letter Bible website. Two Greek words seem to have not been translated and are marked as "Not Available."
 ---
@@ -41,11 +41,11 @@ The Septuagint presents variations from the translation in the *King James Versi
 ````col
 ```col-md
 #### This is how the Brenton Septuagint Reads
-> [!Bible] [Psalms 110:3 - Septuagint](http://qbible.com/brenton-septuagint/psalms/110.html) [[psalms]] [[psalms110]]
+> [!Bible] [Psalms 110:3 - Septuagint](http://qbible.com/brenton-septuagint/psalms/110.html) [psalms](psalms.md) [psalms110](psalms110.md)
 >  <sup> **3** </sup>With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.
  %% #bible #psalms #psalms110 %%
 #### This is the text in Greek
-![[Pasted image 20230703031243.png]]
+![Pasted image 20230703031243.png](Pasted%20image%2020230703031243.png)
 
 
 
@@ -53,7 +53,7 @@ The Septuagint presents variations from the translation in the *King James Versi
 
 ```col-md
 #### These are the two words that are "Not Available"
-![[Pasted image 20230703031327.png]]
+![Pasted image 20230703031327.png](Pasted%20image%2020230703031327.png)
 
 
 #### This is the verse translated word for word
@@ -70,7 +70,7 @@ Google states that the term "engendered" is no longer commonly used and refers t
 
 
 ```col-md
-![[Pasted image 20230703034419.png]]
+![Pasted image 20230703034419.png](Pasted%20image%2020230703034419.png)
 
 ```
 
@@ -91,8 +91,8 @@ Here's a hyperlink to the present webpage.:
 
 
 
-[[../Birth of Yahusha|Birth of Yahusha]]
+[Birth of Yahusha](../Birth%20of%20Yahusha.md)
 
-[[Something]]
+[Something](Something.md)
 
 
